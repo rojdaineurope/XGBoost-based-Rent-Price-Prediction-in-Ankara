@@ -1,0 +1,1471 @@
+Kullanım Durumu,Tipi,Binanın Yaşı,Binanın Kat Sayısı,Net Metrekare,Brüt Metrekare,Bulunduğu Kat,Site İçerisinde,Isıtma Tipi,Banyo Sayısı,Oda Sayısı,Balkon Durumu,Aidat,Fiyat,Ilce,Mahalle
+Boş,Daire,21 Ve Üzeri,4,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20500.0,Sincan,Osmanlı Mahallesi
+Boş,Daire,0 (Yeni),4,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,25000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,0 (Yeni),4,55,60,4.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,45000.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,11-15,5,105,120,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,25000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,16-20,4,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19500.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,5-10,4,115,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,16000.0,Mamak,Ekin Mahallesi
+Boş,Daire,21 Ve Üzeri,5,85,100,Kot 1 (-1).Kat,Evet,Kombi Doğalgaz,1,2+1,Var,250.0,30000.0,Çankaya,Kırkkonaklar Mahallesi
+Boş,Daire,21 Ve Üzeri,5,100,115,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,600.0,30000.0,Yenimahalle,Kardelen Mahallesi
+Boş,Daire,5-10,3,120,130,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,0 (Yeni),3,110,115,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,35000.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,21 Ve Üzeri,8,117,125,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,900.0,28000.0,Etimesgut,Yavuz Selim Mahallesi
+Boş,Daire,5-10,2,180,200,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,25000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,11-15,8,115,130,8.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,30000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,11-15,2,125,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,35000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,0 (Yeni),13,125,135,2.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,200.0,35000.0,Sincan,Mevlana Mahallesi
+Boş,Daire,5-10,4,115,125,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,30000.0,Sincan,Gökçek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,50.0,16000.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,65,70,2.Kat,Hayır,Kombi Doğalgaz,2,1+1,Var,1250.0,32000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,16-20,4,125,126,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,450.0,29000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,5-10,12,130,150,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,25750.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,16-20,4,55,65,2.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,150.0,12500.0,Mamak,Zirvekent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,94,104,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,25000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,8,54,59,2.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,1665.0,22750.0,Yenimahalle,Serhat Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Kartaltepe Mahallesi
+Boş,Daire,16-20,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,27000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,5,85,500,Çatı Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,21000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,125,130,Kot 3 (-3).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,25000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,21 Ve Üzeri,11,55,60,3.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,275.0,25500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,5-10,7,100,115,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),2,3+1,Var,150.0,22500.0,Mamak,Hüseyingazi Mahallesi
+Boş,Daire,21 Ve Üzeri,5,65,70,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,50.0,11000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,21 Ve Üzeri,5,65,70,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,50.0,11000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,11-15,5,80,90,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,26000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,21 Ve Üzeri,4,84,86,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,1,3+1,Var,275.0,24500.0,Etimesgut,Şeyh Şamil Mahallesi
+Boş,Daire,21 Ve Üzeri,4,65,70,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,50.0,10000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,0 (Yeni),13,169,210,7.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,500.0,45450.0,Yenimahalle,Susuz Mahallesi
+Boş,Daire,0 (Yeni),10,100,105,10.Kat,Hayır,Yerden Isıtma,2,2+1,Var,250.0,32000.0,Pursaklar,Mimar Sinan Mahallesi
+Boş,Daire,21 Ve Üzeri,3,50,55,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,300.0,23000.0,Çankaya,Maltepe Mahallesi
+Boş,Daire,0 (Yeni),3,80,96,2.Kat,Hayır,Yerden Isıtma,2,2+1,Var,500.0,35000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,11-15,3,115,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,5-10,2,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Kamil Ocak Mahallesi
+Boş,Daire,0 (Yeni),14,74,85,6.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,650.0,34000.0,Yenimahalle,Çakırlar Mahallesi
+Boş,Daire,3,5,140,150,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,28500.0,Altındağ,Başpınar Mahallesi
+Boş,Daire,5-10,5,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,25000.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,4,5,120,130,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,25000.0,Altındağ,Başpınar Mahallesi
+Boş,Daire,11-15,4,120,135,Kot 3 (-3).Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,18000.0,Mamak,Bostancık Mahallesi
+Boş,Daire,21 Ve Üzeri,8,130,140,4.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,1500.0,25000.0,Pursaklar,Tevfik İleri Mahallesi
+Boş,Daire,5-10,5,160,190,4.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,200.0,40000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,95,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,14500.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,11-15,4,95,110,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,25000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21900.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Şenlik Mahallesi
+Boş,Daire,5-10,3,90,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,15000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,11-15,6,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,21 Ve Üzeri,3,113,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Keçiören,İncirli Mahallesi
+Boş,Daire,5-10,13,125,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,35000.0,Mamak,Ege Mahallesi
+Boş,Daire,16-20,4,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19500.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,16-20,3,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Keçiören,Karakaya Mahallesi
+Boş,Daire,11-15,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,24000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,23500.0,Sincan,Plevne Mahallesi
+Boş,Daire,21 Ve Üzeri,3,60,100,3.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,275.0,25000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,135,145,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,4+1,Var,200.0,17750.0,Sincan,Akşemsettin Mahallesi
+Boş,Daire,0 (Yeni),11,84,94,5.Kat,Hayır,Yerden Isıtma,2,2+1,Var,275.0,26000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,16-20,3,85,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,21000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,21 Ve Üzeri,14,127,135,2.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2500.0,37000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,45000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,120,4.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,35000.0,Çankaya,Ayrancı Mahallesi
+Boş,Residence,5-10,17,42,50,2.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Yok,2500.0,30000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,11-15,8,140,150,7.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,39000.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,4,13,100,110,3.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,950.0,25000.0,Mamak,Diriliş Mahallesi
+Mülk Sahibi Oturuyor,Daire,3,3,50,60,Bahçe Katı,Hayır,Merkezi (Pay Ölçer),1,Stüdyo,Var,850.0,30500.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,280,300,3.Kat,Hayır,Kombi Doğalgaz,3,5+1,Var,1000.0,55000.0,Çankaya,Kırkkonaklar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Şafaktepe Mahallesi
+Boş,Daire,5-10,5,120,145,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,23000.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,5-10,11,120,145,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,32000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,23750.0,Keçiören,Kalaba Mahallesi
+Boş,Daire,11-15,12,55,65,7.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,1650.0,22000.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,130,2.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,150.0,44500.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,0 (Yeni),3,40,45,2.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,500.0,30000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,4,4,100,110,3.Kat,Hayır,Merkezi (Pay Ölçer),2,3.5+1,Var,1000.0,25000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,0 (Yeni),5,50,60,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,14500.0,Akyurt,Saracalar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Sincan,Menderes Mahallesi
+Boş,Daire,16-20,3,90,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,18500.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,0 (Yeni),3,40,45,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,30000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,21 Ve Üzeri,4,135,145,4.Kat,Hayır,Merkezi Doğalgaz,1,3.5+1,Var,850.0,42000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,16-20,14,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,0 (Yeni),3,125,135,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,28000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,4,60,65,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,2+1,Var,275.0,20000.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,21 Ve Üzeri,14,130,140,8.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,37500.0,Yenimahalle,Ostim Mahallesi
+Boş,Daire,16-20,8,230,260,7.Kat,Evet,Kombi Doğalgaz,2,5+1,Var,650.0,49000.0,Yenimahalle,Serhat Mahallesi
+Boş,Daire,16-20,4,119,135,4.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,250.0,24000.0,Pursaklar,Fatih Mahallesi
+Boş,Daire,11-15,3,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,22000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15900.0,Sincan,Atatürk Mahallesi
+Boş,Daire,11-15,4,95,97,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,22500.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,21 Ve Üzeri,3,130,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28000.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,5-10,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Keçiören,Kanuni Mahallesi
+Kiracı Oturuyor,Müstakil Ev,2,2,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,42000.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Villa,21 Ve Üzeri,4,350,380,2.Kat,Hayır,Kombi Doğalgaz,3,5+1,Var,850.0,127000.0,Çankaya,Yukarı Dikmen Mahallesi
+Boş,Daire,16-20,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,1,6,40,45,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,3500.0,34000.0,Çankaya,Remzi Oğuz Arık Mahallesi
+Boş,Daire,21 Ve Üzeri,2,110,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,35000.0,Çankaya,Öveçler Mahallesi
+Boş,Daire,16-20,4,120,140,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Sincan,Osmanlı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Sincan,Ertuğrulgazi Mahallesi
+Kiracı Oturuyor,Daire,2,27,198,230,25.Kat,Evet,Yerden Isıtma,2,5+1,Var,275.0,60000.0,Gölbaşı,Hacılar Mahallesi
+Boş,Daire,11-15,3,100,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,11-15,3,110,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,24000.0,Mamak,Mehtap Mahallesi
+Boş,Daire,16-20,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21500.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),16,40,46,3.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,650.0,24000.0,Yenimahalle,Yeni Batı Mahallesi
+Boş,Daire,11-15,13,105,118,7.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,1000.0,19000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,11-15,14,145,170,1.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,275.0,32000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,3,8,120,169,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,200.0,25500.0,Keçiören,Şenyuva Mahallesi
+Boş,Daire,21 Ve Üzeri,12,125,128,8.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,750.0,31000.0,Yenimahalle,Ostim OSB Mahallesi
+Boş,Daire,0 (Yeni),4,45,55,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,25000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,3,10,60,65,9.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,30000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Residence,11-15,8,55,60,2.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,30000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,11-15,2,260,300,2.Kat,Hayır,Kombi Doğalgaz,2,6+1,Var,850.0,45000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,5-10,3,125,135,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,22000.0,Altındağ,Karapürçek Mahallesi
+Boş,Daire,16-20,3,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,200.0,28000.0,Keçiören,Kamil Ocak Mahallesi
+Boş,Daire,5-10,14,110,120,10.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,450.0,20000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,7,130,135,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,4000.0,55000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,1,2,65,66,2.Kat,Hayır,Yerden Isıtma,1,1+1,Var,225.0,14500.0,Çubuk,Esenboğa Merkez Mahallesi
+Kiracı Oturuyor,Daire,1,15,200,220,13.Kat,Hayır,Yerden Isıtma,2,4.5+1,Var,1500.0,57000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,105,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Emrah Mahallesi
+Boş,Daire,11-15,4,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,4.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,2000.0,45000.0,Çankaya,İlkadım Mahallesi
+Boş,Daire,21 Ve Üzeri,17,84,105,2.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,500.0,36900.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,11-15,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Keçiören,Hisar Mahallesi
+Boş,Daire,0 (Yeni),3,50,65,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,25500.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,16-20,12,140,150,5.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,2950.0,47000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,2,9,80,90,4.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,275.0,36000.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,21 Ve Üzeri,4,180,190,3.Kat,Hayır,Merkezi Doğalgaz,1,4+1,Var,3500.0,50000.0,Çankaya,Barbaros Mahallesi
+Boş,Daire,16-20,4,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,25000.0,Çankaya,Keklik Pınarı Mahallesi
+Boş,Daire,21 Ve Üzeri,8,15,20,1.Kat,Hayır,Merkezi Doğalgaz,1,Stüdyo,Var,850.0,20000.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,21 Ve Üzeri,2,105,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18500.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,21 Ve Üzeri,6,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,22000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,2,3,85,90,Düz Giriş (Zemin),Evet,Merkezi Doğalgaz,1,3+1,Var,250.0,19000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,21 Ve Üzeri,5,110,120,4.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,250.0,25000.0,Sincan,Ertuğrulgazi Mahallesi
+Boş,Daire,5-10,10,180,195,1.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,1000.0,53000.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,16-20,3,85,90,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16000.0,Keçiören,Hisar Mahallesi
+Boş,Daire,5-10,3,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22500.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,21 Ve Üzeri,11,165,180,8.Kat,Hayır,Merkezi (Pay Ölçer),2,3.5+1,Var,2300.0,42000.0,Etimesgut,Yavuz Selim Mahallesi
+Kiracı Oturuyor,Daire,16-20,3,100,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,Mehtap Mahallesi
+Boş,Daire,11-15,3,130,145,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,250.0,26000.0,Pursaklar,Fatih Mahallesi
+Boş,Daire,11-15,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Etimesgut,Piyade Mahallesi
+Boş,Daire,21 Ve Üzeri,8,150,170,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,1500.0,28900.0,Altındağ,Baraj Mahallesi
+Boş,Daire,21 Ve Üzeri,9,160,170,5.Kat,Hayır,Merkezi (Pay Ölçer),2,3.5+1,Var,1500.0,27500.0,Altındağ,Baraj Mahallesi
+Boş,Daire,5-10,3,135,145,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,3,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,26000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,11-15,3,110,125,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,300.0,35000.0,Keçiören,Emrah Mahallesi
+Boş,Daire,21 Ve Üzeri,11,180,230,3.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,1750.0,56500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23750.0,Keçiören,Kalaba Mahallesi
+Boş,Daire,21 Ve Üzeri,6,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,22000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,21 Ve Üzeri,6,115,125,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,20000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,3,4,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,35000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,21500.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,22000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,13500.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,1,5,46,53,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,35000.0,Çankaya,Kazım Özalp Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,250,270,4.Kat,Evet,Kombi Doğalgaz,4,5+1,Var,1000.0,42000.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,5-10,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,16-20,3,90,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,21000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,11-15,4,115,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,11-15,3,115,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),5,50,55,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,800.0,77500.0,Çankaya,Güvenevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,35000.0,Çankaya,Yücetepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,180,190,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,25000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,29900.0,Keçiören,İncirli Mahallesi
+Boş,Daire,0 (Yeni),13,55,65,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,250.0,19000.0,Pursaklar,Saray Osmangazi Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Şenlik Mahallesi
+Boş,Daire,16-20,11,150,160,1.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,1000.0,55000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20000.0,Keçiören,Yakacık Mahallesi
+Kiracı Oturuyor,Daire,5-10,13,55,70,2.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,37500.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Sincan,Atatürk Mahallesi
+Boş,Daire,16-20,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,16-20,2,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,2,30,90,110,29.Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,14000.0,71000.0,Yenimahalle,Emniyet Mahallesi
+Boş,Daire,16-20,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),3,80,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19250.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,11-15,3,90,100,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,250.0,19000.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,1,3,60,70,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,38000.0,Çankaya,Büyükesat Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,4,79,80,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,100.0,12000.0,Polatlı,Zafer Mahallesi
+Boş,Daire,11-15,16,147,166,11.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,275.0,22500.0,Altındağ,Baraj Mahallesi
+Boş,Daire,21 Ve Üzeri,8,110,115,Yüksek Giriş,Hayır,Yerden Isıtma,1,3+1,Var,2200.0,25000.0,Çankaya,Keklik Pınarı Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,12,76,82,4.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,275.0,34000.0,Etimesgut,Göksu Mahallesi
+Boş,Daire,11-15,3,90,105,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,18500.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),3,45,52,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,23000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,8,150,160,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,1500.0,42500.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,16-20,4,125,135,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Sincan,Ahi Evran Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,250,270,4.Kat,Evet,Kombi Doğalgaz,4,5+1,Var,1000.0,42000.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,35000.0,Çankaya,Sokullu Mehmet Paşa Mahallesi
+Boş,Daire,21 Ve Üzeri,8,130,160,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,39200.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,21 Ve Üzeri,2,30,35,1.Kat,Hayır,Merkezi (Pay Ölçer),1,Stüdyo,Var,800.0,19750.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,5-10,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,16-20,3,90,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,21000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,11-15,4,115,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,11-15,3,115,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),5,50,55,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,800.0,77500.0,Çankaya,Güvenevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,35000.0,Çankaya,Yücetepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,180,190,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,25000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,29900.0,Keçiören,İncirli Mahallesi
+Boş,Daire,0 (Yeni),13,55,65,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,250.0,19000.0,Pursaklar,Saray Osmangazi Mahallesi
+Boş,Daire,21 Ve Üzeri,4,165,175,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,28000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,16-20,11,150,160,1.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,1000.0,55000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20000.0,Keçiören,Yakacık Mahallesi
+Kiracı Oturuyor,Daire,5-10,13,55,70,2.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,37500.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Sincan,Atatürk Mahallesi
+Boş,Daire,16-20,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,16-20,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,16-20,2,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,2,30,90,110,29.Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,14000.0,71000.0,Yenimahalle,Emniyet Mahallesi
+Boş,Daire,16-20,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),3,80,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19250.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,11-15,3,115,135,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20000.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,25000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,11-15,14,165,194,5.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,275.0,27500.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,11-15,14,160,190,14.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,275.0,25000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,2,3,155,165,2.Kat,Hayır,Kombi Doğalgaz,2,4.5+1,Var,200.0,37000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,5-10,3,155,165,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,31000.0,Keçiören,Kanuni Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,500.0,21000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,5-10,12,170,200,1.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,1500.0,36000.0,Pursaklar,Saray Fatih Mahallesi
+Boş,Daire,5-10,10,60,70,9.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,29000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,2,2,95,110,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,2750.0,36500.0,Çankaya,Aşağı Öveçler Mahallesi
+Boş,Daire,5-10,2,85,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,16,96,100,13.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,1000.0,30000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,3,15,50,60,5.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,650.0,26000.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,11-15,13,100,118,11.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,1000.0,38000.0,Etimesgut,Tunahan Mahallesi
+Boş,Daire,16-20,4,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,25000.0,Çankaya,Keklik Pınarı Mahallesi
+Boş,Daire,21 Ve Üzeri,8,15,20,1.Kat,Hayır,Merkezi Doğalgaz,1,Stüdyo,Var,850.0,20000.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,5-10,4,125,130,4.Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,850.0,45000.0,Çankaya,Yukarı Dikmen Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,20500.0,Çankaya,Seyranbağları Mahallesi
+Boş,Daire,21 Ve Üzeri,5,20,25,3.Kat,Hayır,Merkezi Doğalgaz,1,Stüdyo,Var,850.0,22000.0,Çankaya,Meşrutiyet Mahallesi
+Boş,Daire,21 Ve Üzeri,4,180,190,3.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,850.0,50000.0,Çankaya,Barbaros Mahallesi
+Boş,Daire,4,4,50,55,2.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,38000.0,Çankaya,Oran Mahallesi
+Boş,Daire,21 Ve Üzeri,5,20,25,3.Kat,Hayır,Merkezi Doğalgaz,1,Stüdyo,Var,850.0,22000.0,Çankaya,Meşrutiyet Mahallesi
+Boş,Daire,0 (Yeni),4,75,85,4.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,1100.0,20500.0,Yenimahalle,Yakacık Mahallesi
+Boş,Daire,16-20,3,120,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,16000.0,Pursaklar,Merkez Mahallesi
+Boş,Daire,11-15,3,55,65,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,250.0,14000.0,Pursaklar,Merkez Mahallesi
+Boş,Daire,11-15,3,130,140,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,21000.0,Pursaklar,Merkez Mahallesi
+Boş,Daire,5-10,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,21000.0,Pursaklar,Saray Cumhuriyet Mahallesi
+Boş,Daire,5-10,3,130,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,23000.0,Keçiören,İncirli Mahallesi
+Boş,Daire,0 (Yeni),3,70,80,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,100.0,32000.0,Çankaya,Seyranbağları Mahallesi
+Boş,Daire,5-10,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,16000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,60,70,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,200.0,27500.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,90,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,16000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,0 (Yeni),7,75,85,1.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,650.0,40900.0,Yenimahalle,Susuz Mahallesi
+Boş,Daire,5-10,8,135,146,8.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,500.0,37000.0,Yenimahalle,Ata Mahallesi
+Boş,Daire,21 Ve Üzeri,9,90,100,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,24490.0,Yenimahalle,Demetgül Mahallesi
+Boş,Daire,16-20,3,80,100,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,25000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,11-15,3,110,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,0 (Yeni),21,186,212,4.Kat,Evet,Yerden Isıtma,4,3+2,Var,450.0,59500.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,11,180,230,3.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,1750.0,56500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23750.0,Keçiören,Kalaba Mahallesi
+Boş,Daire,16-20,4,99,114,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,700.0,21000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,21 Ve Üzeri,6,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,22000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,21 Ve Üzeri,6,115,125,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,20000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,3,4,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,35000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,5-10,3,85,90,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,17000.0,Mamak,Bostancık Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,21500.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,22000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,13500.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,16-20,3,85,95,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,1,5,46,53,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,35000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,21 Ve Üzeri,9,160,180,4.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,4500.0,63000.0,Çankaya,Çukurambar Mahallesi
+Boş,Daire,21 Ve Üzeri,29,55,65,13.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,42000.0,Gölbaşı,Hacılar Mahallesi
+Boş,Daire,21 Ve Üzeri,8,200,230,5.Kat,Hayır,Yerden Isıtma,2,4+1,Var,1000.0,48000.0,Yenimahalle,Yukarı Yahyalar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,1200.0,42000.0,Çankaya,Mebusevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,16-20,4,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,16-20,4,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,16-20,3,90,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,18500.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,11-15,3,220,230,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,300.0,47000.0,Yenimahalle,Pamuklar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,50,130,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,300.0,27000.0,Çankaya,Doğuş Mahallesi
+Kiracı Oturuyor,Daire,11-15,3,230,250,3.Kat,Hayır,Kombi Doğalgaz,4,3+1,Var,2000.0,100000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,5,110,125,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2500.0,33000.0,Çankaya,Küçükesat Mahallesi
+Boş,Daire,21 Ve Üzeri,3,55,60,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1.5+1,Var,100.0,38000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,Yok,2+1,Var,100.0,30000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,1,3,45,50,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,30000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,55,60,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,19000.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,5-10,14,160,165,2.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,1000.0,51000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,11-15,3,80,90,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,41000.0,Çankaya,Emek Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,80,90,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,30000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,0 (Yeni),3,40,50,Bahçe Katı,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,35000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,39000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,18000.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Mamak,Saimekadın Mahallesi
+Boş,Daire,16-20,3,100,110,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,4,3,130,150,3.Kat,Hayır,Kombi Doğalgaz,2,3.5+1,Var,200.0,33000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,7,75,87,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,23000.0,Yenimahalle,Demetgül Mahallesi
+Boş,Daire,11-15,8,190,220,6.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,2950.0,85000.0,Çankaya,Yıldızevler Mahallesi
+Boş,Daire,11-15,4,140,150,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20500.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,5-10,12,72,76,12.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Yok,1750.0,37000.0,Etimesgut,Yeni Bağlıca Mahallesi
+Boş,Daire,1,4,85,95,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Sincan,Menderes Mahallesi
+Boş,Daire,5-10,30,85,90,16.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,36000.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,7,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,650.0,20000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,21 Ve Üzeri,2,63,68,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,300.0,14990.0,Altındağ,Yıldıztepe Mahallesi
+Boş,Daire,11-15,5,120,130,5.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,32000.0,Yenimahalle,Yukarı Yahyalar Mahallesi
+Boş,Daire,0 (Yeni),4,30,32,1.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,25500.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,5-10,5,145,155,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,40000.0,Çankaya,Aşıkpaşa Mahallesi
+Boş,Daire,0 (Yeni),3,100,110,Düz Giriş (Zemin),Evet,Kombi Doğalgaz,1,3+1,Var,1009.0,13000.0,Beypazarı,Ayvaşık Mahallesi
+Boş,Daire,16-20,3,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,100.0,25000.0,Mamak,Saimekadın Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,4,100,110,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,1,2+1,Yok,1638.0,45000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,5-10,2,70,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,32000.0,Çankaya,Seyranbağları Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,26000.0,Çankaya,100. Yıl Mahallesi
+Boş,Daire,21 Ve Üzeri,3,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,40000.0,Çankaya,Emek Mahallesi
+Kiracı Oturuyor,Daire,2,4,80,90,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,55000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,11-15,3,110,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25000.0,Etimesgut,Kazım Karabekir Mahallesi
+Kiracı Oturuyor,Daire,11-15,9,90,120,7.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,3500.0,40000.0,Çankaya,Hilal Mahallesi
+Boş,Daire,16-20,7,120,130,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,250.0,22000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,11-15,4,110,120,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,725.0,23000.0,Mamak,Harman Mahallesi
+Boş,Daire,11-15,4,115,130,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19900.0,Keçiören,Atapark Mahallesi
+Boş,Daire,5-10,3,110,130,3.Kat,Hayır,Kombi Doğalgaz,3,2+1,Var,850.0,65000.0,Çankaya,Yücetepe Mahallesi
+Boş,Daire,16-20,3,200,230,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,23500.0,Keçiören,Köşk Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,20000.0,Yenimahalle,Demetevler Mahallesi
+Boş,Daire,11-15,14,50,55,9.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,28000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,11-15,3,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Sincan,Ahi Evran Mahallesi
+Boş,Daire,5-10,14,30,33,8.Kat,Evet,Merkezi (Pay Ölçer),1,Stüdyo,Var,1000.0,19000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,5-10,14,48,55,13.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,23000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,16-20,6,180,200,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,4+1,Var,1500.0,65000.0,Çankaya,Kızılırmak Mahallesi
+Boş,Daire,16-20,3,105,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Başak Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,20000.0,Mamak,Abidinpaşa Mahallesi
+Boş,Daire,21 Ve Üzeri,9,115,120,8.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,350.0,37500.0,Altındağ,Zübeyde Hanım Mahallesi
+Boş,Daire,11-15,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,19000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,0 (Yeni),4,50,55,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,35000.0,Çankaya,Emek Mahallesi
+Boş,Daire,16-20,3,120,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,5-10,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,25000.0,Keçiören,Sancaktepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Plevne Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Emrah Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,9,145,155,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,28000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,11-15,3,85,90,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,15750.0,Mamak,Fahri Korutürk Mahallesi
+Boş,Daire,5-10,3,90,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,21500.0,Keçiören,Atapark Mahallesi
+Boş,Daire,16-20,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,22000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,11-15,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Ufuktepe Mahallesi
+Boş,Daire,11-15,13,105,117,6.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Yeşiltepe Mahallesi
+Boş,Daire,11-15,3,118,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,27000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,21 Ve Üzeri,3,70,80,2.Kat,Hayır,Sobalı,1,2+1,Var,100.0,15000.0,Yenimahalle,Tepealtı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Yenimahalle,Tepealtı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,130,150,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,35000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,4,3,130,150,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,35000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,17,55,72,14.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,33500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Villa,3,1,85,95,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,35000.0,Gölbaşı,Hacıhasan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,900.0,25250.0,Etimesgut,Güzelkent Mahallesi
+Boş,Daire,16-20,5,115,125,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Fatih Mahallesi
+Boş,Daire,21 Ve Üzeri,3,85,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,33000.0,Çankaya,Aydınlar Mahallesi
+Boş,Daire,11-15,3,100,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,29500.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,11-15,3,100,110,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,3,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,24000.0,Keçiören,Hisar Mahallesi
+Boş,Daire,21 Ve Üzeri,5,125,138,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,23000.0,Mamak,Kartaltepe Mahallesi
+Boş,Daire,16-20,6,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20000.0,Mamak,Kartaltepe Mahallesi
+Boş,Daire,5-10,4,135,150,1.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,1000.0,35000.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,16-20,3,110,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Şehit Kubilay Mahallesi
+Boş,Daire,11-15,3,110,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,18500.0,Mamak,Mehtap Mahallesi
+Boş,Daire,5-10,10,120,150,5.Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,150.0,23000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,11-15,4,140,145,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,18500.0,Keçiören,Karakaya Mahallesi
+Boş,Daire,11-15,4,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19750.0,Keçiören,Karakaya Mahallesi
+Boş,Daire,21 Ve Üzeri,5,110,140,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,50.0,25000.0,Pursaklar,Fatih Mahallesi
+Mülk Sahibi Oturuyor,Residence,21 Ve Üzeri,30,65,70,7.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,3500.0,58000.0,Çankaya,Mustafa Kemal Mahallesi
+Boş,Daire,11-15,3,140,160,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,400.0,45000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,21 Ve Üzeri,11,142,181,8.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,1560.0,38000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,21 Ve Üzeri,11,182,220,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),2,4+1,Var,1730.0,38000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,21 Ve Üzeri,11,110,125,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),1,2+1,Var,1380.0,29000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,16-20,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,Çağlayan Mahallesi
+Boş,Daire,16-20,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,39000.0,Çankaya,Bahçelievler Mahallesi
+Kiracı Oturuyor,Daire,11-15,4,120,135,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,800.0,45000.0,Çankaya,Emek Mahallesi
+Boş,Daire,11-15,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,1,3,60,70,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,38000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,0 (Yeni),5,115,120,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,850.0,60000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,21 Ve Üzeri,8,110,120,7.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1050.0,30000.0,Etimesgut,Eryaman Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,105,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25500.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,16-20,6,99,114,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,21000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,16-20,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,21000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,0 (Yeni),15,43,50,9.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,29000.0,Yenimahalle,Cumhuriyet Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,5,110,125,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2500.0,33000.0,Çankaya,Küçükesat Mahallesi
+Boş,Daire,0 (Yeni),4,115,125,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,20000.0,Akyurt,Yıldırım Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,2,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,130,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,18500.0,Akyurt,Yıldırım Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,25000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,16-20,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,0 (Yeni),17,45,48,17.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,36000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,120,4.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,650.0,34000.0,Yenimahalle,İnönü Mahallesi
+Boş,Daire,21 Ve Üzeri,10,110,120,6.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,2950.0,26000.0,Çankaya,Mürsel Uluç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,165,175,4.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,28000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,1,4,45,55,4.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,28500.0,Yenimahalle,Ragıp Tüzün Mahallesi
+Boş,Daire,21 Ve Üzeri,4,95,100,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,22000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,11-15,4,165,185,Yüksek Giriş,Evet,Kombi Doğalgaz,2,4+1,Var,1000.0,40000.0,Etimesgut,Ahi Mesut Mahallesi
+Boş,Daire,5-10,7,145,165,4.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,275.0,45000.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,30000.0,Yenimahalle,Ergazi Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,70,80,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,23000.0,Çankaya,Topraklık Mahallesi
+Boş,Daire,16-20,3,150,220,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,850.0,37000.0,Çankaya,Keklik Pınarı Mahallesi
+Boş,Daire,21 Ve Üzeri,6,70,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,35000.0,Çankaya,Maltepe Mahallesi
+Boş,Daire,16-20,4,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,22500.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,11-15,7,125,130,3.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,1000.0,33000.0,Etimesgut,Ahi Mesut Mahallesi
+Mülk Sahibi Oturuyor,Daire,16-20,8,130,140,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,1000.0,45000.0,Etimesgut,Göksu Mahallesi
+Boş,Daire,5-10,3,135,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,5-10,3,125,140,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,850.0,50000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,2,1,145,160,1.Kat,Hayır,Kombi Doğalgaz,2,4.5+1,Var,200.0,25000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Plevne Mahallesi
+Boş,Daire,21 Ve Üzeri,8,105,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,23000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,16-20,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Etimesgut,Elvan Mahallesi
+Boş,Daire,0 (Yeni),24,190,210,15.Kat,Hayır,Yerden Isıtma,3,4+1,Var,200.0,70000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,3,3,110,125,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,21500.0,Altındağ,Doğantepe Mahallesi
+Mülk Sahibi Oturuyor,Daire,5-10,4,115,125,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,300.0,23000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26500.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,32000.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,16-20,3,125,148,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Çaldıran Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18500.0,Sincan,Akşemsettin Mahallesi
+Boş,Daire,11-15,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,26000.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,5-10,3,200,220,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,29500.0,Keçiören,Osmangazi Mahallesi
+Boş,Daire,1,5,60,70,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,24000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,22000.0,Keçiören,Aktepe Mahallesi
+Boş,Daire,2,12,120,140,10.Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,150.0,33000.0,Mamak,Türközü Mahallesi
+Boş,Daire,5-10,13,72,90,2.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,1000.0,36000.0,Etimesgut,Yeni Bağlıca Mahallesi
+Boş,Daire,11-15,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,0 (Yeni),12,85,90,7.Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,150.0,30000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,11-15,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Sincan,Plevne Mahallesi
+Boş,Daire,16-20,10,165,180,9.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,3700.0,50000.0,Etimesgut,Eryaman Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,4.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2500.0,42000.0,Çankaya,Çankaya Mahallesi
+Boş,Daire,21 Ve Üzeri,17,60,72,4.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,26500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,3,3,120,125,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,1850.0,28500.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,21 Ve Üzeri,21,110,130,14.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,500.0,62000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,21 Ve Üzeri,7,110,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,22000.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,4,5,125,135,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,32000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,112,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28000.0,Keçiören,Şenlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,85,95,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,16-20,4,130,145,4.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,850.0,42000.0,Çankaya,Hilal Mahallesi
+Boş,Daire,16-20,3,280,320,3.Kat,Hayır,Kombi Doğalgaz,4,6+1,Var,850.0,57000.0,Çankaya,Hilal Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21900.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,11-15,12,110,130,6.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,2950.0,47000.0,Çankaya,Yıldızevler Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,115,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,23000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,105,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,5-10,15,220,270,13.Kat,Evet,Merkezi (Pay Ölçer),2,4.5+1,Var,450.0,53500.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,11-15,17,150,155,2.Kat,Hayır,Yerden Isıtma,2,3+1,Var,200.0,39500.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,11-15,3,130,140,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25900.0,Keçiören,Yayla Mahallesi
+Boş,Daire,4,30,190,235,16.Kat,Evet,Merkezi (Pay Ölçer),3,4+1,Var,450.0,55000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,5-10,5,110,120,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,22500.0,Keçiören,Emrah Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,5-10,5,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25500.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,1,17,190,210,11.Kat,Evet,Yerden Isıtma,2,4.5+1,Var,450.0,51500.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,85,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17500.0,Keçiören,Yakacık Mahallesi
+Boş,Daire,5-10,4,130,150,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18500.0,Keçiören,Etlik Mahallesi
+Kiracı Oturuyor,Daire,11-15,10,82,94,7.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,1200.0,22500.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,1,3,85,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Sincan,29 Ekim Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,5,130,131,4.Kat,Hayır,Kombi Doğalgaz,1,5+0,Var,850.0,16000.0,Çankaya,Kültür Mahallesi
+Boş,Daire,0 (Yeni),13,187,211,5.Kat,Evet,Yerden Isıtma,2,4+1,Var,1500.0,39250.0,Pursaklar,Saray Cumhuriyet Mahallesi
+Boş,Daire,0 (Yeni),15,50,60,10.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,35000.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,0 (Yeni),15,50,60,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,25500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,16-20,8,110,120,8.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,275.0,20000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,16-20,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,19000.0,Altındağ,Beşikkaya Mahallesi
+Boş,Daire,11-15,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Mamak,Yeni Bayındır Mahallesi
+Boş,Daire,16-20,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,23000.0,Etimesgut,Piyade Mahallesi
+Boş,Daire,11-15,10,140,160,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1350.0,30000.0,Yenimahalle,Ata Mahallesi
+Boş,Daire,1,18,145,165,15.Kat,Evet,Merkezi (Pay Ölçer),2,3.5+1,Var,2950.0,93000.0,Çankaya,Beytepe Mahallesi
+Boş,Daire,1,18,145,165,12.Kat,Evet,Merkezi (Pay Ölçer),2,3.5+1,Var,2950.0,90000.0,Çankaya,Beytepe Mahallesi
+Boş,Daire,2,30,103,120,8.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,275.0,53000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,11-15,8,110,120,8.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,275.0,20000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,2.Kat,Hayır,Kombi Doğalgaz,6+,2+1,Var,850.0,30000.0,Çankaya,Ön Cebeci Mahallesi
+Boş,Daire,11-15,3,80,90,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,17500.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,16-20,13,89,109,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,700.0,16250.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,18000.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,16-20,6,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,5-10,3,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,5-10,3,125,135,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,16-20,3,220,240,3.Kat,Hayır,Kombi Doğalgaz,2,5+0,Var,150.0,35000.0,Mamak,Mehtap Mahallesi
+Boş,Daire,16-20,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25750.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,20000.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,5-10,8,168,175,2.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,1000.0,58500.0,Etimesgut,Yapracık Mahallesi
+Boş,Daire,21 Ve Üzeri,13,135,140,12.Kat,Evet,Merkezi Doğalgaz,2,3+1,Var,650.0,38000.0,Yenimahalle,Mehmet Akif Ersoy Mahallesi
+Boş,Daire,11-15,30,85,105,6.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,57000.0,Çankaya,Oran Mahallesi
+Boş,Daire,11-15,3,110,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Yok,150.0,19000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,16-20,3,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,20000.0,Sincan,Atatürk Mahallesi
+Boş,Daire,16-20,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,22000.0,Etimesgut,Piyade Mahallesi
+Boş,Daire,16-20,4,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,450.0,24000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,11-15,3,105,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,120,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Plevne Mahallesi
+Boş,Daire,16-20,3,135,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,28000.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,11-15,3,110,115,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19500.0,Keçiören,İncirli Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,110,2.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,35000.0,Çankaya,Kavaklıdere Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,2.5+1,Var,150.0,23000.0,Mamak,Tuzluçayır Mahallesi
+Boş,Daire,21 Ve Üzeri,2,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,17000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,1,3,150,160,3.Kat,Hayır,Kombi Doğalgaz,3,4+1,Var,850.0,47000.0,Çankaya,Öveçler Mahallesi
+Boş,Villa,2,2,110,120,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,275.0,45000.0,Bala,Beynam Mahallesi
+Boş,Daire,5-10,3,120,140,1.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,150.0,21000.0,Mamak,Bahçeleriçi Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,Plevne Mahallesi
+Boş,Daire,21 Ve Üzeri,4,52,55,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,2062.0,25500.0,Etimesgut,Tunahan Mahallesi
+Boş,Daire,0 (Yeni),3,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,25000.0,Altındağ,Karapürçek Mahallesi
+Boş,Daire,0 (Yeni),15,130,140,14.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,30000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,22000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19400.0,Keçiören,Şenlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19900.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,125,Kot 3 (-3).Kat,Hayır,Kombi Doğalgaz,1,3+0,Var,200.0,22500.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,16-20,3,130,140,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,11-15,5,110,120,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Yok,260.0,30000.0,Sincan,Ahi Evran Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,11-15,4,135,162,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,32500.0,Sincan,Gökçek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,95,105,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,25000.0,Çankaya,Murat Mahallesi
+Boş,Daire,5-10,3,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,21 Ve Üzeri,2,110,115,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25500.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,16-20,2,110,115,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,20750.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,105,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,7,110,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,27000.0,Yenimahalle,Demetgül Mahallesi
+Boş,Daire,5-10,4,115,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,20000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16700.0,Sincan,Fatih Mahallesi
+Boş,Daire,0 (Yeni),6,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,18000.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,5-10,6,130,140,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,26000.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,11-15,4,100,115,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,18000.0,Yenimahalle,Avcılar Mahallesi
+Boş,Daire,21 Ve Üzeri,12,120,125,11.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,500.0,30000.0,Yenimahalle,Gayret Mahallesi
+Boş,Daire,16-20,5,105,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,5-10,7,145,160,Yüksek Giriş,Evet,Kombi Doğalgaz,2,3+1,Var,650.0,50000.0,Yenimahalle,Çakırlar Mahallesi
+Boş,Daire,3,16,85,90,11.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,1000.0,38500.0,Etimesgut,Göksu Mahallesi
+Boş,Daire,11-15,10,200,255,4.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,2950.0,76000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,21 Ve Üzeri,2,145,160,Yüksek Giriş,Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,49000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,16-20,16,60,65,4.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,29500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,11-15,3,140,150,Çatı Dubleks,Hayır,Kombi Doğalgaz,2,4+1,Var,100.0,25000.0,Sincan,Atatürk Mahallesi
+Boş,Daire,21 Ve Üzeri,25,125,135,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,1540.0,33000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,21 Ve Üzeri,9,100,110,4.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,650.0,32000.0,Yenimahalle,Batı Sitesi Mahallesi
+Boş,Daire,21 Ve Üzeri,5,45,55,Yüksek Giriş,Hayır,Doğalgaz Sobalı,1,1+1,Yok,500.0,500000.0,Yenimahalle,Karşıyaka Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,125,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,35000.0,Çankaya,Ümit Mahallesi
+Boş,Daire,16-20,3,45,50,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,275.0,29000.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,5-10,10,130,145,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,650.0,23500.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,95,105,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,18000.0,Gölbaşı,Bahçelievler Mahallesi
+Boş,Daire,16-20,5,120,135,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15000.0,Sincan,Ulubatlı Hasan Mahallesi
+Boş,Daire,16-20,10,85,95,7.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,1000.0,22000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,21 Ve Üzeri,4,320,400,4.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,300.0,49000.0,Çankaya,Mürsel Uluç Mahallesi
+Boş,Daire,5-10,10,110,120,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,24000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,11-15,5,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,15500.0,Altındağ,Battalgazi Mahallesi
+Boş,Daire,16-20,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25500.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,5-10,10,55,60,1.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,26750.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,0 (Yeni),7,45,55,3.Kat,Hayır,Yerden Isıtma,1,1+1,Var,1500.0,30000.0,Yenimahalle,Çamlıca Mahallesi
+Boş,Daire,21 Ve Üzeri,3,48,52,2.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,2355.0,20500.0,Etimesgut,Tunahan Mahallesi
+Boş,Daire,11-15,17,145,160,3.Kat,Evet,Yerden Isıtma,2,3+1,Var,650.0,39000.0,Yenimahalle,Kayalar Mahallesi
+Boş,Daire,3,16,55,60,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,33000.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Mamak,Demirlibahçe Mahallesi
+Boş,Daire,0 (Yeni),6,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,20000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,16-20,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,5-10,4,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,22750.0,Gölbaşı,Şafak Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,115,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,54000.0,Çankaya,Çankaya Mahallesi
+Boş,Daire,11-15,1,40,45,Yüksek Giriş,Hayır,Sobalı,1,1+1,Var,500.0,18000.0,Gölbaşı,Gökçehüyük Mahallesi
+Boş,Daire,11-15,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,81,99,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,15000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,11-15,11,82,94,1.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,23500.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,21 Ve Üzeri,8,130,140,7.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Mamak,Kartaltepe Mahallesi
+Boş,Daire,11-15,2,65,75,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,22000.0,Yenimahalle,Anadolu Mahallesi
+Boş,Daire,21 Ve Üzeri,3,140,179,3.Kat,Hayır,Kombi Doğalgaz,1,3.5+1,Var,200.0,22900.0,Keçiören,Pınarbaşı Mahallesi
+Boş,Daire,16-20,3,85,95,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16000.0,Keçiören,Çaldıran Mahallesi
+Boş,Daire,21 Ve Üzeri,3,130,140,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18500.0,Mamak,Kazım Orbay Mahallesi
+Boş,Daire,11-15,5,145,165,3.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,275.0,27000.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,16-20,6,125,138,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,29000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,850.0,30000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+2,Var,850.0,30000.0,Çankaya,Esatoğlu Mahallesi
+Boş,Daire,4,3,90,100,3.Kat,Hayır,Merkezi (Pay Ölçer),2,2+2,Var,850.0,45000.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,Yüksek Giriş,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,35000.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,21 Ve Üzeri,3,50,52,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,1967.0,16500.0,Etimesgut,Şeyh Şamil Mahallesi
+Boş,Daire,16-20,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,18750.0,Mamak,Fahri Korutürk Mahallesi
+Boş,Daire,0 (Yeni),3,110,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24900.0,Keçiören,Kafkas Mahallesi
+Boş,Daire,11-15,3,105,110,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,250.0,22000.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,11-15,3,110,115,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,17500.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,21 Ve Üzeri,4,50,60,Bahçe Katı,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,17500.0,Yenimahalle,Anadolu Mahallesi
+Boş,Daire,21 Ve Üzeri,3,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,23000.0,Mamak,Saimekadın Mahallesi
+Boş,Daire,2,15,208,238,12.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,850.0,62000.0,Çankaya,Bademlidere Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,45000.0,Çankaya,Malazgirt Mahallesi
+Boş,Daire,11-15,13,130,140,5.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,28000.0,Yenimahalle,Çiğdemtepe Mahallesi
+Kiracı Oturuyor,Daire,5-10,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Mamak,Gülveren Mahallesi
+Kiracı Oturuyor,Daire,1,13,75,80,2.Kat,Hayır,Merkezi Doğalgaz,2,2+1,Var,275.0,38000.0,Etimesgut,Yeni Bağlıca Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,115,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,35000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,60,70,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,11000.0,Altındağ,Örnek Mahallesi
+Kiracı Oturuyor,Daire,16-20,30,150,210,6.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,7268.0,110000.0,Çankaya,Oran Mahallesi
+Boş,Daire,4,14,130,140,7.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,1000.0,28000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,5-10,3,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,11-15,7,90,100,3.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,250.0,17000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,3,60,70,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,200.0,14000.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,5-10,3,90,100,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,20000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,5-10,2,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,2,120,130,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,30000.0,Yenimahalle,Uğur Mumcu Mahallesi
+Boş,Daire,5-10,2,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,2,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,5,105,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17000.0,Sincan,Andiçen Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,0 (Yeni),11,84,94,4.Kat,Hayır,Yerden Isıtma,2,2+1,Var,275.0,29000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,5-10,2,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,16-20,5,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,750.0,26000.0,Yenimahalle,Ata Mahallesi
+Boş,Daire,11-15,4,165,178,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,2000.0,53000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,0 (Yeni),12,75,85,11.Kat,Evet,Merkezi Doğalgaz,2,2+1,Var,725.0,30000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,16,55,60,4.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,275.0,27000.0,Etimesgut,Altay Mahallesi
+Boş,Daire,16-20,3,75,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,20000.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,115,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,29000.0,Yenimahalle,İlkyerleşim Mahallesi
+Boş,Daire,11-15,15,85,90,3.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,37500.0,Etimesgut,Yapracık Mahallesi
+Boş,Daire,21 Ve Üzeri,10,120,140,5.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,450.0,33000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,0 (Yeni),3,45,52,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,18000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,0 (Yeni),3,45,52,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,750.0,24000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,0 (Yeni),12,80,85,10.Kat,Hayır,Yerden Isıtma,2,2+1,Var,150.0,25500.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,16-20,4,180,200,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,100.0,23000.0,Polatlı,Gazi Mahallesi
+Boş,Daire,1,3,40,45,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,30000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,3,3,40,45,2.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,31000.0,Çankaya,Yaşamkent Mahallesi
+Mülk Sahibi Oturuyor,Daire,1,4,70,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,60000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,140,160,3.Kat,Hayır,Merkezi Doğalgaz,1,4+1,Var,850.0,45000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20500.0,Mamak,Bahçeleriçi Mahallesi
+Boş,Daire,5-10,44,60,70,35.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,38000.0,Çankaya,Alacaatlı Mahallesi
+Kiracı Oturuyor,Daire,11-15,3,120,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,23000.0,Altındağ,Karapürçek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,38000.0,Çankaya,Remzi Oğuz Arık Mahallesi
+Boş,Daire,2,5,40,45,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,26000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,5-10,4,125,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Şehit Kubilay Mahallesi
+Boş,Daire,0 (Yeni),4,60,65,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Yok,850.0,42000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,0 (Yeni),4,45,55,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,33000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,25000.0,Keçiören,23 Nisan Mahallesi
+Boş,Daire,0 (Yeni),4,44,55,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,200.0,13500.0,Çubuk,Yıldırım Beyazıt Mahallesi
+Boş,Daire,1,5,88,95,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),2,2+1,Var,200.0,18000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,3,3,120,130,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,1,120,135,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,20000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,17000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,2,4,40,45,4.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,32500.0,Çankaya,Yaşamkent Mahallesi
+Boş,Müstakil Ev,21 Ve Üzeri,1,170,180,2.Kat,Hayır,Sobalı,1,3+1,Var,500.0,25000.0,Yenimahalle,Yakacık Mahallesi
+Boş,Daire,11-15,3,125,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Malazgirt Mahallesi
+Boş,Daire,21 Ve Üzeri,30,85,105,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Kamil Ocak Mahallesi
+Boş,Daire,0 (Yeni),16,85,90,15.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,1000.0,26000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,0 (Yeni),8,80,95,3.Kat,Evet,Yerden Isıtma,2,2+1,Var,1000.0,28000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,16-20,3,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,100.0,25000.0,Mamak,Saimekadın Mahallesi
+Boş,Daire,5-10,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Mamak,Ekin Mahallesi
+Boş,Daire,11-15,14,74,85,Yüksek Giriş,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,17000.0,Etimesgut,Aşağıyurtçu Mahallesi
+Kiracı Oturuyor,Daire,16-20,30,150,210,6.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,7268.0,110000.0,Çankaya,Oran Mahallesi
+Boş,Müstakil Ev,21 Ve Üzeri,3,145,165,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,45000.0,Yenimahalle,Kardelen Mahallesi
+Boş,Daire,5-10,3,125,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,85,90,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16500.0,Sincan,Plevne Mahallesi
+Boş,Daire,11-15,11,117,124,Kot 1 (-1).Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,275.0,17500.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,16-20,4,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,5-10,10,55,60,Yüksek Giriş,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,23000.0,Etimesgut,Şeker Mahallesi
+Mülk Sahibi Oturuyor,Daire,11-15,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,30000.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,0 (Yeni),3,105,125,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,20000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,16-20,3,120,130,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,23000.0,Mamak,Mehtap Mahallesi
+Boş,Daire,0 (Yeni),13,88,95,9.Kat,Evet,Kombi Doğalgaz,2,2+1,Var,1000.0,25000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,0 (Yeni),13,169,210,7.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,500.0,46500.0,Yenimahalle,Susuz Mahallesi
+Boş,Daire,0 (Yeni),10,100,110,4.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,200.0,33000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,5-10,8,110,115,Düz Giriş (Zemin),Evet,Merkezi (Pay Ölçer),1,3+1,Var,1000.0,22000.0,Mamak,Altınevler Mahallesi
+Boş,Daire,5-10,11,75,85,5.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,700.0,25000.0,Mamak,Karaağaç Mahallesi
+Boş,Daire,0 (Yeni),3,125,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,25000.0,Sincan,Menderes Mahallesi
+Boş,Daire,3,14,165,185,11.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,650.0,51000.0,Yenimahalle,Susuz Mahallesi
+Boş,Daire,0 (Yeni),3,50,55,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,15000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,15,75,80,2.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,1000.0,33750.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,2,3,100,115,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,35000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,5-10,4,115,120,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19900.0,Keçiören,Atapark Mahallesi
+Boş,Daire,5-10,4,110,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26500.0,Keçiören,Osmangazi Mahallesi
+Boş,Daire,2,30,200,220,17.Kat,Evet,Merkezi (Pay Ölçer),3,4.5+1,Var,450.0,55000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,3,150,160,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2000.0,45000.0,Çankaya,Maltepe Mahallesi
+Boş,Daire,0 (Yeni),2,50,60,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,25000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,5-10,5,95,100,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,49000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,1900.0,29000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,2,3,120,125,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,17000.0,Mamak,Ekin Mahallesi
+Boş,Daire,16-20,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Keçiören,Köşk Mahallesi
+Boş,Daire,0 (Yeni),4,30,35,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,Stüdyo,Yok,850.0,26500.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Yok,300.0,26000.0,Çankaya,Emek Mahallesi
+Boş,Daire,11-15,4,128,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,16-20,4,160,175,1.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,200.0,20500.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,17,45,60,13.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,1250.0,30500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,11-15,4,80,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,17000.0,Yenimahalle,Burç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,121,141,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,650.0,35000.0,Yenimahalle,Batı Sitesi Mahallesi
+Boş,Daire,0 (Yeni),13,75,90,5.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,1500.0,26000.0,Pursaklar,Saray Osmangazi Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Keçiören,İncirli Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,2+1,Var,500.0,25000.0,Yenimahalle,Tepealtı Mahallesi
+Boş,Daire,0 (Yeni),5,40,45,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,225.0,11000.0,Çubuk,Esenboğa Merkez Mahallesi
+Boş,Daire,11-15,3,70,75,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,16000.0,Mamak,Hürel Mahallesi
+Boş,Daire,0 (Yeni),5,60,65,Bahçe Katı,Hayır,Yerden Isıtma,1,1+1,Var,150.0,32500.0,Mamak,Demirlibahçe Mahallesi
+Boş,Daire,11-15,6,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,21 Ve Üzeri,3,140,150,3.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,2000.0,70000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,11-15,5,105,110,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,800.0,20500.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,11-15,4,155,165,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,24000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,11-15,4,115,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,25000.0,Yenimahalle,Barıştepe Mahallesi
+Boş,Daire,1,4,88,110,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,55000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,1,3,65,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,47000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,0 (Yeni),9,158,175,6.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,29000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,0 (Yeni),4,50,55,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,750.0,42500.0,Çankaya,Ön Cebeci Mahallesi
+Boş,Daire,0 (Yeni),4,50,55,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,42500.0,Çankaya,Ön Cebeci Mahallesi
+Boş,Daire,21 Ve Üzeri,3,150,165,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,36000.0,Çankaya,Aziziye Mahallesi
+Kiracı Oturuyor,Daire,11-15,4,85,90,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,750.0,45000.0,Çankaya,Mebusevleri Mahallesi
+Boş,Daire,16-20,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Aşağı Eğlence Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,130,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,12000.0,Sincan,Alcı Mahallesi
+Boş,Daire,2,4,40,45,Bahçe Katı,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,27000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,5-10,10,130,150,7.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,45000.0,Mamak,Ege Mahallesi
+Boş,Daire,11-15,11,150,175,4.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,500.0,50000.0,Yenimahalle,Demetevler Mahallesi
+Boş,Daire,0 (Yeni),3,78,90,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,35000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,5-10,3,100,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,17500.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,110,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,25000.0,Çankaya,Fidanlık Mahallesi
+Boş,Daire,5-10,4,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,26000.0,Mamak,Durali Alıç Mahallesi
+Kiracı Oturuyor,Daire,1,3,65,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,47000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,11-15,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,27000.0,Yenimahalle,Burç Mahallesi
+Boş,Daire,5-10,30,87,110,6.Kat,Evet,Yerden Isıtma,1,2+1,Var,2950.0,52000.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,5,100,110,4.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,2950.0,35000.0,Çankaya,Oğuzlar Mahallesi
+Boş,Daire,11-15,3,90,100,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,34000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,16-20,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,27000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,0 (Yeni),3,140,150,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,37000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,16-20,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,5-10,4,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,16-20,3,90,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,5-10,3,90,100,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,15000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Tepebaşı Mahallesi
+Boş,Daire,5-10,5,95,100,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,49000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,1900.0,29000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,2,3,120,125,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,17000.0,Mamak,Ekin Mahallesi
+Boş,Daire,16-20,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Keçiören,Köşk Mahallesi
+Boş,Daire,0 (Yeni),4,30,35,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,Stüdyo,Yok,850.0,26500.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Yok,300.0,26000.0,Çankaya,Emek Mahallesi
+Boş,Daire,11-15,4,128,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,16-20,4,160,175,1.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,200.0,20500.0,Keçiören,Bağlarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,17,45,60,13.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,1250.0,30500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,11-15,4,80,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,17000.0,Yenimahalle,Burç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,121,141,2.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,650.0,35000.0,Yenimahalle,Batı Sitesi Mahallesi
+Boş,Daire,0 (Yeni),13,75,90,5.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,1500.0,26000.0,Pursaklar,Saray Osmangazi Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Keçiören,İncirli Mahallesi
+Boş,Daire,21 Ve Üzeri,2,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,2+1,Var,500.0,25000.0,Yenimahalle,Tepealtı Mahallesi
+Boş,Daire,0 (Yeni),5,40,45,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,225.0,11000.0,Çubuk,Esenboğa Merkez Mahallesi
+Boş,Daire,11-15,3,70,75,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,16000.0,Mamak,Hürel Mahallesi
+Boş,Daire,0 (Yeni),5,60,65,Bahçe Katı,Hayır,Yerden Isıtma,1,1+1,Var,150.0,32500.0,Mamak,Demirlibahçe Mahallesi
+Boş,Daire,11-15,6,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,21 Ve Üzeri,3,140,150,3.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,2000.0,70000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,11-15,5,105,110,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,800.0,20500.0,Etimesgut,Ayyıldız Mahallesi
+Boş,Daire,11-15,4,155,165,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,24000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,11-15,4,115,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,25000.0,Yenimahalle,Barıştepe Mahallesi
+Boş,Daire,1,4,88,110,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,55000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,1,3,65,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,47000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,0 (Yeni),9,158,175,6.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,275.0,29000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,0 (Yeni),4,50,55,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,750.0,42500.0,Çankaya,Ön Cebeci Mahallesi
+Boş,Daire,0 (Yeni),4,50,55,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,42500.0,Çankaya,Ön Cebeci Mahallesi
+Boş,Daire,21 Ve Üzeri,3,150,165,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,36000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,21 Ve Üzeri,7,120,130,Kot 4 (-4).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,37500.0,Yenimahalle,Kentkoop Mahallesi
+Boş,Daire,16-20,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,5,90,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,37000.0,Çankaya,İşçi Blokları Mahallesi
+Boş,Daire,21 Ve Üzeri,5,94,100,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,30000.0,Çankaya,İşçi Blokları Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,13,185,205,12.Kat,Hayır,Merkezi (Pay Ölçer),3,4+1,Var,4800.0,118000.0,Çankaya,Beytepe Mahallesi
+Boş,Daire,11-15,3,135,150,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,32000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,11-15,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,0 (Yeni),15,60,65,13.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,24500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,2,3,130,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,25500.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,11-15,3,135,140,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,14,112,117,Yüksek Giriş,Hayır,Merkezi Doğalgaz,1,3+1,Var,3034.0,25500.0,Etimesgut,Tunahan Mahallesi
+Boş,Villa,11-15,4,280,320,2.Kat,Hayır,Kombi Doğalgaz,4,4+1,Var,500.0,38000.0,Yenimahalle,Kuzey Yıldızı Mahallesi
+Boş,Villa,11-15,4,280,320,2.Kat,Hayır,Kombi Doğalgaz,4,6+2,Var,500.0,38000.0,Yenimahalle,Kuzey Yıldızı Mahallesi
+Boş,Daire,5-10,3,125,140,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,26000.0,Altındağ,Doğantepe Mahallesi
+Boş,Daire,0 (Yeni),3,85,95,Yüksek Giriş,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1009.0,10500.0,Beypazarı,Ayvaşık Mahallesi
+Boş,Daire,5-10,3,100,105,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,35000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,16-20,4,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18500.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,5-10,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,27000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,5-10,30,35,47,30.Kat,Evet,Yerden Isıtma,1,1+1,Var,2950.0,33000.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,2,15,50,53,9.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,35000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,21 Ve Üzeri,8,105,115,8.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,35000.0,Çankaya,Oran Mahallesi
+Boş,Daire,21 Ve Üzeri,8,115,125,Bahçe Katı,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,53000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,1,38,80,90,21.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,3250.0,33000.0,Mamak,Ege Mahallesi
+Boş,Daire,0 (Yeni),3,100,110,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,21000.0,Altındağ,Beşikkaya Mahallesi
+Boş,Daire,0 (Yeni),14,37,45,9.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,1000.0,15000.0,Çubuk,Yenice Mahallesi
+Boş,Daire,16-20,3,100,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Mamak,Misket Mahallesi
+Boş,Daire,5-10,7,85,95,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,31000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,0 (Yeni),14,70,80,10.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,23000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,21 Ve Üzeri,4,95,105,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,16500.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,4,3,85,105,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,23000.0,Çankaya,Seyranbağları Mahallesi
+Boş,Daire,0 (Yeni),4,55,75,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,40000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Boş,Daire,11-15,4,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22500.0,Keçiören,Yayla Mahallesi
+Boş,Daire,21 Ve Üzeri,3,85,90,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,30000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,5,60,70,3.Kat,Evet,Merkezi Doğalgaz,1,1+1,Var,1000.0,23000.0,Etimesgut,Tunahan Mahallesi
+Boş,Daire,5-10,4,135,155,4.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,30500.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,0 (Yeni),3,65,75,3.Kat,Hayır,Kombi Doğalgaz,1,2.5+1,Var,500.0,45000.0,Yenimahalle,Güventepe Mahallesi
+Boş,Daire,2,12,135,150,6.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,500.0,45000.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,16-20,4,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,16500.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,16-20,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Yayla Mahallesi
+Boş,Daire,11-15,12,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1100.0,29750.0,Etimesgut,Ahi Mesut Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,16-20,3,110,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,26000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,0 (Yeni),15,148,160,11.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,40000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,2,3,55,60,3.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,100.0,15000.0,Çubuk,Esenboğa Merkez Mahallesi
+Boş,Daire,21 Ve Üzeri,5,125,135,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,19000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,48000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,0 (Yeni),4,45,50,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,24000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,5-10,4,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,35000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,16-20,4,85,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,15500.0,Keçiören,Osmangazi Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,110,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,25000.0,Çankaya,Fidanlık Mahallesi
+Boş,Daire,0 (Yeni),12,145,160,Kot 2 (-2).Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,36000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,11-15,4,150,160,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,100.0,20000.0,Polatlı,Gazi Mahallesi
+Boş,Daire,11-15,4,85,95,1.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,275.0,27000.0,Gölbaşı,Eymir Mahallesi
+Boş,Daire,11-15,8,120,135,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,22000.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,4,3,40,45,Yüksek Giriş,Hayır,Yerden Isıtma,1,1+1,Var,850.0,26500.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,26000.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,16-20,3,130,150,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,31500.0,Çankaya,Birlik Mahallesi
+Boş,Daire,1,4,75,85,3.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,200.0,40000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,30000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,16-20,4,85,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,11-15,3,225,240,3.Kat,Hayır,Kombi Doğalgaz,3,5+1,Var,200.0,28000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,5-10,3,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Ufuktepe Mahallesi
+Kiracı Oturuyor,Müstakil Ev,21 Ve Üzeri,3,150,185,2.Kat,Evet,Kombi Doğalgaz,2,3+2,Var,650.0,36000.0,Yenimahalle,Uğur Mumcu Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,120,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,36500.0,Yenimahalle,Ergazi Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,50.0,19000.0,Altındağ,Örnek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,95,105,4.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,850.0,39000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,5-10,14,120,145,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,21500.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,0 (Yeni),4,45,55,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,30000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,27000.0,Çankaya,Tınaztepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,18000.0,Pursaklar,Fatih Mahallesi
+Boş,Daire,16-20,5,85,90,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,16000.0,Pursaklar,Ayyıldız Mahallesi
+Boş,Daire,16-20,2,125,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,24900.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,11-15,3,105,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,23500.0,Etimesgut,Piyade Mahallesi
+Boş,Daire,11-15,6,100,110,6.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,24000.0,Yenimahalle,Kaletepe Mahallesi
+Boş,Daire,11-15,6,130,140,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,28000.0,Yenimahalle,Kaletepe Mahallesi
+Boş,Daire,0 (Yeni),4,70,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,16000.0,Çubuk,Yıldırım Beyazıt Mahallesi
+Boş,Daire,0 (Yeni),4,52,65,Çatı Katı,Hayır,Kombi Doğalgaz,1,1+1,Var,200.0,14000.0,Çubuk,Yıldırım Beyazıt Mahallesi
+Boş,Daire,11-15,10,224,255,1.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,2950.0,78000.0,Çankaya,Kırkkonaklar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,95,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Çankaya,Çamlıtepe Mahallesi
+Boş,Daire,2,3,90,100,1.Kat,Hayır,Yerden Isıtma,1,3+1,Var,300.0,34000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,350.0,32500.0,Çankaya,100. Yıl Mahallesi
+Boş,Daire,5-10,4,130,135,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,12000.0,Sincan,Alcı Mahallesi
+Boş,Daire,0 (Yeni),3,68,75,Yüksek Giriş,Hayır,Yerden Isıtma,1,2+1,Var,850.0,33500.0,Çankaya,Cebeci Mahallesi
+Boş,Daire,11-15,3,110,120,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Şehit Kubilay Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Menderes Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,25500.0,Çankaya,Mürsel Uluç Mahallesi
+Boş,Daire,5-10,5,60,70,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,26500.0,Çankaya,Aşıkpaşa Mahallesi
+Mülk Sahibi Oturuyor,Villa,21 Ve Üzeri,3,654,700,2.Kat,Evet,Kombi Doğalgaz,5,9+ Oda,Var,2950.0,200000.0,Çankaya,Ümit Mahallesi
+Boş,Daire,0 (Yeni),6,75,85,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Yok,150.0,27000.0,Çankaya,Kültür Mahallesi
+Boş,Daire,5-10,7,145,155,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25500.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,20500.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,0 (Yeni),13,45,52,2.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,33000.0,Yenimahalle,Turgut Özal Mahallesi
+Boş,Daire,11-15,11,70,85,5.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,900.0,23000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,85,1.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,100.0,18000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Kamil Ocak Mahallesi
+Boş,Daire,11-15,3,80,92,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,35000.0,Çankaya,Huzur Mahallesi
+Boş,Villa,5-10,2,250,270,2.Kat,Evet,Kombi Doğalgaz,3,4+1,Var,2950.0,125000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,5-10,8,140,145,6.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,1000.0,35000.0,Etimesgut,Ahi Mesut Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,29500.0,Etimesgut,Güzelkent Mahallesi
+Boş,Daire,21 Ve Üzeri,5,90,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,20000.0,Çankaya,Ertuğrulgazi Mahallesi
+Boş,Daire,11-15,5,125,135,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,300.0,28000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,21 Ve Üzeri,3,79,98,3.Kat,Hayır,Sobalı,Yok,2+1,Var,275.0,8000.0,Haymana,Yeni Mahallesi
+Boş,Daire,21 Ve Üzeri,4,113,124,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,105,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,20000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,250,280,3.Kat,Hayır,Kombi Doğalgaz,3,6+1,Var,200.0,40000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,0 (Yeni),4,70,85,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,1000.0,45000.0,Çankaya,Maltepe Mahallesi
+Boş,Daire,21 Ve Üzeri,11,90,105,11.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,2950.0,58500.0,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mahallesi
+Boş,Daire,2,3,75,140,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,30500.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,8,145,165,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,62000.0,Çankaya,Kızılırmak Mahallesi
+Boş,Daire,4,30,127,148,1.Kat,Evet,Merkezi (Pay Ölçer),2,3.5+1,Var,275.0,70000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,5-10,7,300,350,7.Kat,Evet,Merkezi Doğalgaz,3,4+1,Var,725.0,40000.0,Mamak,Türközü Mahallesi
+Boş,Daire,21 Ve Üzeri,7,130,150,7.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,32000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,1,3,40,43,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,40000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Boş,Daire,11-15,4,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,24000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,11-15,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,25000.0,Altındağ,Yıldıztepe Mahallesi
+Boş,Daire,4,13,80,100,13.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,650.0,60000.0,Yenimahalle,Ergazi Mahallesi
+Boş,Daire,4,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,400.0,20000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,11-15,10,120,146,4.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,650.0,47500.0,Yenimahalle,Gayret Mahallesi
+Boş,Daire,2,9,130,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,30000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,11-15,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,23000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,16-20,4,105,125,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,1000.0,18000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,5-10,15,175,185,7.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,450.0,55000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,16-20,3,95,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17500.0,Keçiören,Uyanış Mahallesi
+Boş,Daire,11-15,3,110,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,21000.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,21 Ve Üzeri,5,110,120,1.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,250.0,25000.0,Sincan,Ulubatlı Hasan Mahallesi
+Boş,Daire,5-10,7,50,60,Kot 1 (-1).Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,725.0,22000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,0 (Yeni),3,120,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,28000.0,Keçiören,Karakaya Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2000.0,32000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,149,160,3.Kat,Hayır,Kombi Doğalgaz,1,3+0,Var,850.0,37500.0,Çankaya,Emek Mahallesi
+Boş,Daire,5-10,4,90,95,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,25000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,2,2,65,80,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,40000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,11-15,6,55,65,1.Kat,Evet,Kombi Doğalgaz,1,1+1,Yok,250.0,15500.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,11-15,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,24000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,30000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,5-10,4,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Altındağ,Battalgazi Mahallesi
+Boş,Daire,5-10,4,130,140,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,24000.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,15500.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,0 (Yeni),8,130,145,1.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,250.0,35000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,11-15,3,220,240,3.Kat,Hayır,Kombi Doğalgaz,3,6+1,Var,200.0,34000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,1,4,55,60,2.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,200.0,30000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,7,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,130,1.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,30000.0,Çankaya,Çankaya Mahallesi
+Boş,Daire,0 (Yeni),30,170,200,21.Kat,Evet,Merkezi (Pay Ölçer),2,4.5+1,Var,2950.0,92000.0,Çankaya,Hilal Mahallesi
+Boş,Daire,0 (Yeni),3,45,65,1.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,850.0,60000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,21 Ve Üzeri,5,145,165,Yüksek Giriş,Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,53000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,21 Ve Üzeri,5,90,105,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,50.0,29000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,3,14,115,125,12.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,250.0,34500.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,0 (Yeni),2,65,70,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,28000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,0 (Yeni),13,50,55,8.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,34500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,4,65,75,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,19500.0,Pursaklar,Ayyıldız Mahallesi
+Boş,Daire,16-20,3,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,24500.0,Mamak,Mutlu Mahallesi
+Boş,Daire,21 Ve Üzeri,16,150,165,12.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,48500.0,Çankaya,Ümit Mahallesi
+Boş,Daire,5-10,6,143,155,5.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,250.0,32000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,5-10,4,130,140,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,21500.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,5-10,15,150,165,14.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,500.0,35000.0,Yenimahalle,Pamuklar Mahallesi
+Boş,Daire,21 Ve Üzeri,5,140,150,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,25000.0,Mamak,Peyami Safa Mahallesi
+Boş,Daire,2,13,150,165,8.Kat,Evet,Merkezi Doğalgaz,2,3+1,Var,725.0,20500.0,Mamak,Zirvekent Mahallesi
+Boş,Daire,11-15,8,80,95,5.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,21000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,5-10,2,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,2,110,120,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,15000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,7,56,66,7.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,954.0,41000.0,Çankaya,Çukurambar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,118,128,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,1,4,45,50,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,24500.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,16-20,9,125,135,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1750.0,60000.0,Çankaya,Çiğdem Mahallesi
+Boş,Daire,11-15,5,95,105,2.Kat,Hayır,Kombi Doğalgaz,1,2+0,Var,850.0,27000.0,Çankaya,Malazgirt Mahallesi
+Boş,Daire,21 Ve Üzeri,4,180,220,4.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,42000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,50.0,15500.0,Sincan,Mareşal Çakmak Mahallesi
+Kiracı Oturuyor,Daire,11-15,3,250,300,3.Kat,Hayır,Kombi Doğalgaz,4,3+1,Var,2000.0,100000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Boş,Daire,0 (Yeni),4,75,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,40000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,16-20,4,125,130,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,Fatih Mahallesi
+Boş,Daire,11-15,12,85,95,6.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,17500.0,Etimesgut,Yukarıyurtçu Mahallesi
+Boş,Daire,5-10,17,60,70,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,32000.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,16-20,4,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,25000.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,24000.0,Yenimahalle,Ragıp Tüzün Mahallesi
+Boş,Daire,5-10,13,115,130,8.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,850.0,67500.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,5-10,8,135,160,3.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,500.0,35000.0,Altındağ,Baraj Mahallesi
+Boş,Daire,11-15,4,120,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,23500.0,Altındağ,Örnek Mahallesi
+Boş,Daire,11-15,3,90,100,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,25500.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,21 Ve Üzeri,4,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,65000.0,Çankaya,Remzi Oğuz Arık Mahallesi
+Boş,Daire,16-20,3,145,155,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,4+1,Var,850.0,42000.0,Çankaya,Hilal Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,50,55,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,29000.0,Çankaya,Anıttepe Mahallesi
+Boş,Daire,16-20,3,120,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,34000.0,Çankaya,Gökkuşağı Mahallesi
+Boş,Daire,11-15,10,90,100,1.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,18000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,11-15,11,90,100,Yüksek Giriş,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,17000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,5-10,4,135,145,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,11-15,3,80,100,3.Kat,Hayır,Kombi Fueloil,1,2+1,Var,275.0,22000.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,16-20,4,125,130,1.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,725.0,19900.0,Mamak,Kıbrısköy Mahallesi
+Boş,Daire,16-20,8,120,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,18500.0,Pursaklar,Mimar Sinan Mahallesi
+Boş,Daire,16-20,3,120,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,28900.0,Keçiören,Çaldıran Mahallesi
+Boş,Daire,16-20,4,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,40000.0,Çankaya,Hilal Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,120,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,1670.0,32000.0,Çankaya,Mebusevleri Mahallesi
+Boş,Daire,0 (Yeni),3,50,55,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,30000.0,Çankaya,Şehit Cevdet Özdemir Mahallesi
+Mülk Sahibi Oturuyor,Daire,16-20,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,29000.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,21 Ve Üzeri,4,600,659,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20500.0,Sincan,Ulubatlı Hasan Mahallesi
+Boş,Daire,16-20,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,11-15,3,110,120,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,15000.0,Mamak,Mutlu Mahallesi
+Boş,Daire,11-15,9,128,138,7.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,35000.0,Yenimahalle,Çakırlar Mahallesi
+Boş,Daire,11-15,5,120,132,1.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,275.0,27000.0,Gölbaşı,Eymir Mahallesi
+Boş,Daire,16-20,3,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,17000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,16-20,3,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,27000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,3,130,135,3.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,1000.0,40000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,0 (Yeni),3,55,60,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,17000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,11-15,25,150,170,9.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,275.0,49000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,4,3,78,85,3.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,2900.0,42500.0,Yenimahalle,Ergazi Mahallesi
+Boş,Daire,21 Ve Üzeri,6,75,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,1100.0,35000.0,Çankaya,Çiğdem Mahallesi
+Boş,Daire,16-20,3,60,70,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,1+1,Yok,275.0,14000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,11-15,4,110,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,24000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,11-15,3,90,100,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25500.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,11-15,3,120,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,25500.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,5-10,12,170,180,12.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,1500.0,38000.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,11-15,11,110,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17000.0,Sincan,Mareşal Çakmak Mahallesi
+Boş,Daire,2,4,133,140,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,400.0,25000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,3,4,110,120,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,25000.0,Mamak,Bahçelerüstü Mahallesi
+Boş,Daire,3,4,110,120,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,25000.0,Mamak,Bahçelerüstü Mahallesi
+Boş,Daire,11-15,3,85,90,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,15000.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,11-15,5,80,100,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,1000.0,40000.0,Çankaya,Kültür Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,130,3.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,250.0,17500.0,Sincan,Osmanlı Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,45000.0,Çankaya,Yücetepe Mahallesi
+Boş,Daire,0 (Yeni),16,165,190,10.Kat,Evet,Merkezi Doğalgaz,2,4+1,Var,1500.0,35000.0,Pursaklar,Fatih Mahallesi
+Boş,Daire,16-20,3,120,132,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,21 Ve Üzeri,25,120,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,18000.0,Pursaklar,Fatih Mahallesi
+Boş,Daire,11-15,11,110,125,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,725.0,27000.0,Mamak,Bahçeleriçi Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,35000.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,11-15,3,120,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,0 (Yeni),16,150,170,14.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,30000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,26000.0,Çankaya,Harbiye Mahallesi
+Boş,Daire,16-20,3,115,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,5-10,3,55,65,3.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,29000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,16-20,4,95,115,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,22000.0,Polatlı,Şehitlik Mahallesi
+Boş,Müstakil Ev,2,1,90,100,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Yok,500.0,38000.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,16-20,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,16-20,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,23000.0,Pursaklar,Merkez Mahallesi
+Boş,Daire,4,4,110,128,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,22000.0,Altındağ,Başpınar Mahallesi
+Boş,Daire,5-10,4,120,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,22000.0,Altındağ,Doğantepe Mahallesi
+Boş,Daire,3,13,135,150,3.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,275.0,35750.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,0 (Yeni),12,150,165,5.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,275.0,51000.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,0 (Yeni),3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,26000.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,4,10,150,160,6.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,250.0,31000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,5-10,11,120,145,4.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,32000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,Düz Giriş (Zemin),Evet,Kombi Doğalgaz,1,3+1,Var,725.0,12500.0,Mamak,Lalahan Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,14,92,95,6.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,26500.0,Etimesgut,Tunahan Mahallesi
+Boş,Daire,21 Ve Üzeri,9,115,125,1.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2050.0,27500.0,Yenimahalle,Kentkoop Mahallesi
+Boş,Daire,21 Ve Üzeri,9,140,150,5.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,300.0,27500.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,11-15,3,150,160,1.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,200.0,32000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,2,2,90,110,2.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,750.0,37500.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,16-20,4,115,130,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,0 (Yeni),14,45,55,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),1,1+1,Var,500.0,35000.0,Yenimahalle,Yuvaköy Mahallesi
+Boş,Daire,16-20,8,178,210,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,850.0,67500.0,Çankaya,Kızılırmak Mahallesi
+Boş,Daire,16-20,5,80,90,Yüksek Giriş,Evet,Kombi Doğalgaz,1,2+1,Var,250.0,25000.0,Sincan,Yunus Emre Mahallesi
+Boş,Daire,21 Ve Üzeri,15,175,185,9.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,850.0,55000.0,Çankaya,Oran Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,120,Yüksek Giriş,Evet,Kombi Doğalgaz,1,3+1,Var,300.0,19000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,16-20,8,165,175,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,62000.0,Çankaya,İşçi Blokları Mahallesi
+Boş,Daire,11-15,3,100,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Plevne Mahallesi
+Boş,Daire,1,3,38,51,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,22000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,38000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,16-20,3,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20800.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,4,75,95,1.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,1000.0,31000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,21 Ve Üzeri,15,75,95,2.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,1000.0,33750.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,0 (Yeni),3,40,46,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,40000.0,Çankaya,Oğuzlar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,1,3,70,75,2.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,850.0,50000.0,Çankaya,Kazım Özalp Mahallesi
+Boş,Daire,21 Ve Üzeri,5,120,128,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,30000.0,Yenimahalle,Batı Sitesi Mahallesi
+Boş,Daire,1,15,205,235,14.Kat,Evet,Yerden Isıtma,4,4.5+1,Var,650.0,62000.0,Yenimahalle,Yuvaköy Mahallesi
+Boş,Daire,11-15,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17900.0,Keçiören,Etlik Mahallesi
+Boş,Daire,0 (Yeni),2,35,53,Kot 1 (-1).Kat,Hayır,Yerden Isıtma,1,1+1,Yok,850.0,27000.0,Çankaya,Osman Temiz Mahallesi
+Boş,Daire,21 Ve Üzeri,2,70,80,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,25500.0,Yenimahalle,Beştepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,4,4,75,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,40000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,1,3,48,68,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,28500.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,95,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,15000.0,Mamak,Yeşilbayır Mahallesi
+Boş,Daire,5-10,16,140,150,2.Kat,Evet,Yerden Isıtma,2,3+1,Var,450.0,43000.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,21000.0,Yenimahalle,Ragıp Tüzün Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,100,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,27000.0,Yenimahalle,Ragıp Tüzün Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,135,1.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,250.0,18500.0,Sincan,Andiçen Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,27500.0,Çankaya,Öveçler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,26000.0,Keçiören,İncirli Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Mamak,Abidinpaşa Mahallesi
+Boş,Daire,21 Ve Üzeri,6,140,150,1.Kat,Hayır,Kombi Doğalgaz,1,5+1,Var,275.0,41000.0,Altındağ,Hacettepe Mahallesi
+Boş,Daire,5-10,10,85,90,3.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,725.0,16250.0,Mamak,Zirvekent Mahallesi
+Boş,Daire,0 (Yeni),4,80,95,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,18500.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,11-15,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18750.0,Keçiören,Ufuktepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,32000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,16-20,6,100,110,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,32000.0,Yenimahalle,Demetevler Mahallesi
+Boş,Daire,16-20,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,130,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,19999.0,Sincan,Osmanlı Mahallesi
+Boş,Daire,5-10,20,180,190,15.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,2950.0,105000.0,Çankaya,Ümit Mahallesi
+Boş,Daire,21 Ve Üzeri,12,110,120,7.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,48000.0,Çankaya,İşçi Blokları Mahallesi
+Boş,Daire,0 (Yeni),4,30,32,Düz Giriş (Zemin),Hayır,Merkezi Doğalgaz,1,Stüdyo,Var,850.0,20750.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,11-15,3,130,140,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,21 Ve Üzeri,2,85,100,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,23000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,11-15,8,120,140,4.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,28000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,0 (Yeni),4,80,95,3.Kat,Hayır,Yerden Isıtma,1,2+1,Var,500.0,30000.0,Gölbaşı,Örencik Mahallesi
+Boş,Daire,5-10,10,170,180,3.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,1500.0,32000.0,Pursaklar,Saray Fatih Mahallesi
+Boş,Daire,16-20,3,115,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Yeşiltepe Mahallesi
+Boş,Daire,3,29,210,230,7.Kat,Evet,Yerden Isıtma,2,4+1,Var,2950.0,110000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,21 Ve Üzeri,5,170,190,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,850.0,53000.0,Çankaya,Çiğdem Mahallesi
+Boş,Daire,11-15,3,120,130,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,4,14,100,110,4.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,1000.0,26000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,16-20,3,110,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,18500.0,Pursaklar,Yunus Emre Mahallesi
+Boş,Daire,3,6,88,94,4.Kat,Hayır,Yerden Isıtma,1,2+1,Var,4000.0,85000.0,Çankaya,Çukurambar Mahallesi
+Boş,Daire,3,6,70,75,6.Kat,Hayır,Yerden Isıtma,1,1+1,Var,4000.0,70000.0,Çankaya,Çukurambar Mahallesi
+Boş,Daire,0 (Yeni),3,90,100,3.Kat,Hayır,Yerden Isıtma,3,2+1,Var,500.0,42000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,2,85,145,2.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,500.0,40000.0,Yenimahalle,Beştepe Mahallesi
+Boş,Daire,21 Ve Üzeri,6,115,125,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,18000.0,Yenimahalle,Demetlale Mahallesi
+Boş,Daire,11-15,3,115,135,Yüksek Giriş,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,25000.0,Keçiören,Adnan Menderes Mahallesi
+Boş,Daire,21 Ve Üzeri,9,180,225,2.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,4500.0,50000.0,Çankaya,Huzur Mahallesi
+Boş,Daire,11-15,3,115,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,25500.0,Gölbaşı,Gaziosmanpaşa Mahallesi
+Boş,Daire,11-15,5,80,100,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,1000.0,40000.0,Çankaya,Kültür Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,75,90,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Yok,800.0,39500.0,Çankaya,Emek Mahallesi
+Boş,Daire,11-15,3,45,50,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,200.0,19000.0,Keçiören,Karargahtepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,20000.0,Mamak,Küçük Kayaş Mahallesi
+Boş,Daire,11-15,3,100,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25750.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,5-10,3,50,55,Bahçe Katı,Hayır,Kombi Doğalgaz,1,1+1,Var,275.0,19750.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,5-10,5,70,75,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,41500.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,9,130,145,7.Kat,Evet,Merkezi Doğalgaz,2,4+1,Var,2950.0,62500.0,Çankaya,Çiğdem Mahallesi
+Boş,Daire,5-10,3,110,115,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,450.0,18000.0,Keçiören,Osmangazi Mahallesi
+Boş,Daire,5-10,9,140,180,5.Kat,Evet,Merkezi Doğalgaz,2,3.5+1,Var,500.0,30000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,11-15,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,20000.0,Etimesgut,Süvari Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,19000.0,Mamak,Küçük Kayaş Mahallesi
+Boş,Daire,11-15,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,21500.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,11-15,12,85,95,Yüksek Giriş,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,16500.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,11-15,10,85,95,9.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,20000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,5-10,3,85,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25500.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,34000.0,Çankaya,Öveçler Mahallesi
+Kiracı Oturuyor,Daire,5-10,7,135,155,7.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,500.0,32000.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,5-10,13,140,150,13.Kat,Evet,Merkezi Doğalgaz,2,3+1,Var,500.0,35000.0,Yenimahalle,Pamuklar Mahallesi
+Boş,Daire,11-15,12,59,64,6.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,1500.0,35000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,5,85,95,5.Kat,Hayır,Kombi Doğalgaz,Yok,2+1,Var,500.0,35000.0,Çankaya,İşçi Blokları Mahallesi
+Boş,Daire,5-10,9,125,140,9.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,250.0,15000.0,Sincan,Alcı Mahallesi
+Boş,Daire,0 (Yeni),4,70,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,28500.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,0 (Yeni),3,150,160,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,46000.0,Gölbaşı,Örencik Mahallesi
+Boş,Daire,16-20,3,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Mamak,Çağlayan Mahallesi
+Boş,Daire,5-10,10,145,150,7.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,500.0,34000.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,50,55,2.Kat,Evet,Merkezi Doğalgaz,1,1+1,Var,1000.0,23000.0,Etimesgut,Şeyh Şamil Mahallesi
+Boş,Daire,5-10,4,105,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22500.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,0 (Yeni),17,160,180,11.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,650.0,47000.0,Yenimahalle,Yuvaköy Mahallesi
+Boş,Daire,16-20,2,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,0 (Yeni),3,45,48,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,29000.0,Çankaya,Şehit Cevdet Özdemir Mahallesi
+Boş,Daire,16-20,3,130,150,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,34000.0,Çankaya,Bağcılar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,130,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Yenimahalle,Ergenekon Mahallesi
+Boş,Daire,0 (Yeni),4,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,38000.0,Çankaya,Aşıkpaşa Mahallesi
+Boş,Daire,16-20,3,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Ayvalı Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,4,50,130,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,300.0,27000.0,Çankaya,Doğuş Mahallesi
+Boş,Daire,11-15,7,100,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,25500.0,Mamak,Kutlu Mahallesi
+Boş,Daire,21 Ve Üzeri,2,125,128,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,27500.0,Çankaya,Murat Mahallesi
+Boş,Daire,16-20,3,135,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,350.0,40000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,135,145,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,1000.0,53000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,21 Ve Üzeri,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,27000.0,Yenimahalle,İlkyerleşim Mahallesi
+Boş,Daire,16-20,3,99,100,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Keçiören,Pınarbaşı Mahallesi
+Boş,Daire,0 (Yeni),4,70,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,28500.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,0 (Yeni),3,70,75,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,750.0,55000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2000.0,37000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,50.0,36000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,5,100,120,3.Kat,Hayır,Merkezi Fueloil,1,3+1,Var,2650.0,22500.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,0 (Yeni),16,200,220,6.Kat,Evet,Merkezi (Pay Ölçer),2,4.5+1,Var,450.0,59000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,21 Ve Üzeri,7,110,120,7.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,28000.0,Etimesgut,Topçu Mahallesi
+Boş,Daire,11-15,5,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,22000.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,0 (Yeni),4,45,55,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,28500.0,Çankaya,Hilal Mahallesi
+Boş,Daire,0 (Yeni),4,45,55,4.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,30000.0,Çankaya,Yukarı Dikmen Mahallesi
+Boş,Daire,16-20,2,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,1,3,50,60,Kot 3 (-3).Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,29000.0,Çankaya,Büyükesat Mahallesi
+Boş,Villa,21 Ve Üzeri,3,200,250,2.Kat,Evet,Kombi Doğalgaz,2,5+1,Var,1000.0,48000.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,16-20,3,220,260,2.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,850.0,40000.0,Çankaya,Aşağı Öveçler Mahallesi
+Boş,Daire,21 Ve Üzeri,9,130,140,1.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,850.0,64000.0,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mahallesi
+Boş,Daire,1,3,40,45,3.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,28000.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,70,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,25000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,0 (Yeni),25,117,134,25.Kat,Evet,Yerden Isıtma,2,3+1,Var,450.0,55000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,11-15,3,120,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,21 Ve Üzeri,5,115,120,5.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,650.0,36000.0,Yenimahalle,Yeni Batı Mahallesi
+Boş,Daire,0 (Yeni),4,110,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,Yok,3+1,Var,200.0,20000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,16-20,5,120,135,Kot 4 (-4).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,28000.0,Çankaya,Erzurum Mahallesi
+Boş,Daire,16-20,4,120,140,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,850.0,46000.0,Çankaya,Yıldızevler Mahallesi
+Boş,Daire,5-10,25,300,320,23.Kat,Evet,Merkezi (Pay Ölçer),2,5+1,Var,2950.0,69000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,1,8,80,85,6.Kat,Evet,Merkezi (Pay Ölçer),2,2+0,Var,1000.0,28500.0,Etimesgut,Yeşilova Mahallesi
+Boş,Daire,5-10,34,186,214,6.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,275.0,73000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,21 Ve Üzeri,5,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21500.0,Keçiören,Etlik Mahallesi
+Boş,Daire,0 (Yeni),3,50,55,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,27000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,16-20,6,135,150,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,1009.0,20000.0,Beypazarı,Hacıkara Mahallesi
+Boş,Daire,0 (Yeni),2,46,50,2.Kat,Evet,Kombi Doğalgaz,1,1+1,Var,1009.0,15000.0,Beypazarı,Kurtuluş Mahallesi
+Boş,Daire,2,8,90,100,7.Kat,Hayır,Kombi Doğalgaz,1,3+0,Var,500.0,35000.0,Gölbaşı,Şafak Mahallesi
+Boş,Daire,11-15,4,100,115,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,25000.0,Gölbaşı,Bahçelievler Mahallesi
+Boş,Daire,5-10,7,75,85,Kot 1 (-1).Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,150.0,25000.0,Mamak,Karaağaç Mahallesi
+Boş,Daire,5-10,14,105,115,6.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,150.0,25000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,11-15,14,175,192,5.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,275.0,36000.0,Etimesgut,Turkuaz Mahallesi
+Boş,Daire,0 (Yeni),13,85,95,3.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,275.0,39500.0,Etimesgut,Bağlıca Mahallesi
+Boş,Daire,5-10,30,35,45,2.Kat,Evet,Yerden Isıtma,1,1+1,Var,2950.0,31500.0,Çankaya,Konutkent Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2000.0,37000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,11-15,4,110,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,17000.0,Altındağ,Karapürçek Mahallesi
+Boş,Daire,11-15,3,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Osmangazi Mahallesi
+Boş,Daire,1,11,145,160,5.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,250.0,36000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,21 Ve Üzeri,2,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Keçiören,Uyanış Mahallesi
+Boş,Daire,3,16,120,130,9.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,2950.0,97000.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,17,200,220,9.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,2950.0,110000.0,Çankaya,Güzeltepe Mahallesi
+Boş,Daire,11-15,3,107,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,5-10,3,120,130,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Sancaktepe Mahallesi
+Boş,Daire,0 (Yeni),15,75,90,5.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,500.0,39500.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,0 (Yeni),4,120,135,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,400.0,27500.0,Sincan,Menderes Mahallesi
+Boş,Daire,21 Ve Üzeri,15,96,110,13.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,1000.0,30500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,400.0,25000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,5-10,11,150,160,5.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,500.0,32000.0,Yenimahalle,Kuzey Yıldızı Mahallesi
+Boş,Daire,21 Ve Üzeri,2,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,250.0,23500.0,Pursaklar,Mimar Sinan Mahallesi
+Boş,Daire,5-10,3,130,140,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,Başak Mahallesi
+Boş,Daire,21 Ve Üzeri,2,80,90,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,15000.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,16-20,3,90,100,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,15500.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,5-10,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,26000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,11-15,4,130,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,5-10,30,92,124,13.Kat,Evet,Yerden Isıtma,2,2+1,Var,2950.0,45000.0,Çankaya,Yukarı Dikmen Mahallesi
+Boş,Daire,1,5,60,70,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,27000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,5-10,13,55,58,9.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,28500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,16-20,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,25000.0,Etimesgut,Atakent Mahallesi
+Boş,Daire,11-15,16,120,140,1.Kat,Hayır,Merkezi Doğalgaz,2,4+1,Var,275.0,16500.0,Altındağ,Baraj Mahallesi
+Boş,Daire,2,3,45,55,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,20000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,16-20,3,115,128,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,Pınarbaşı Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,11-15,3,140,150,3.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,100.0,19000.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,4,7,120,130,5.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,24750.0,Polatlı,Basrı Mahallesi
+Boş,Daire,16-20,4,120,130,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,20500.0,Polatlı,Zafer Mahallesi
+Boş,Daire,16-20,5,125,140,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,300.0,18000.0,Polatlı,Fatih Mahallesi
+Boş,Daire,0 (Yeni),7,128,140,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,100.0,23500.0,Polatlı,İstiklal Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,100.0,19000.0,Polatlı,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,105,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,11000.0,Polatlı,Kurtuluş Mahallesi
+Boş,Daire,0 (Yeni),3,70,75,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,750.0,55000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,5,95,100,Kot 3 (-3).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,13000.0,Mamak,Kartaltepe Mahallesi
+Boş,Daire,0 (Yeni),6,45,55,3.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,200.0,24000.0,Sincan,Saraycık Mahallesi
+Boş,Daire,5-10,4,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,30000.0,Altındağ,Yıldıztepe Mahallesi
+Boş,Daire,16-20,4,110,130,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,19000.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,5-10,10,175,200,2.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,100.0,28000.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Aşık Veysel Mahallesi
+Boş,Daire,5-10,2,120,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,24000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,5-10,2,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,15000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,5-10,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,11-15,12,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1250.0,29750.0,Etimesgut,Ahi Mesut Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,106,1.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,29000.0,Çankaya,Naci Çakır Mahallesi
+Boş,Daire,4,3,125,126,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,65,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,17000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Villa,5-10,3,280,330,2.Kat,Hayır,Kombi Doğalgaz,3,5+1,Var,500.0,65000.0,Gölbaşı,Hacılar Mahallesi
+Boş,Daire,5-10,10,55,60,4.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,27500.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,5-10,9,81,90,4.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,38000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,21 Ve Üzeri,8,115,120,8.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,1000.0,32000.0,Etimesgut,Eryaman Mahallesi
+Boş,Daire,11-15,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,29000.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,21 Ve Üzeri,14,76,80,9.Kat,Evet,Merkezi Doğalgaz,1,2+1,Var,1000.0,29500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,5-10,9,90,95,9.Kat,Evet,Merkezi (Pay Ölçer),1,2+1,Var,1000.0,37500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Kiracı Oturuyor,Daire,4,10,85,100,3.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,275.0,39000.0,Etimesgut,Yeni Bağlıca Mahallesi
+Boş,Daire,1,19,206,230,12.Kat,Evet,Yerden Isıtma,3,4.5+1,Var,2950.0,67000.0,Çankaya,Dodurga Mahallesi
+Boş,Daire,5-10,13,145,150,5.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,450.0,35000.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,11-15,5,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,30000.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,21 Ve Üzeri,15,120,135,4.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,2950.0,52000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,4,3,50,60,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,2300.0,35000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,16-20,3,135,150,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,32000.0,Yenimahalle,Yunus Emre Mahallesi
+Boş,Daire,21 Ve Üzeri,10,105,115,4.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,450.0,26000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,2,12,85,95,11.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,2950.0,44000.0,Çankaya,Koru Mahallesi
+Boş,Daire,21 Ve Üzeri,5,103,120,1.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,48000.0,Çankaya,Koru Mahallesi
+Boş,Daire,21 Ve Üzeri,3,190,220,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,850.0,34000.0,Çankaya,Arka Topraklık Mahallesi
+Boş,Residence,0 (Yeni),15,78,95,3.Kat,Evet,Yerden Isıtma,2,2+1,Var,2950.0,50000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,0 (Yeni),10,125,140,7.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,30000.0,Mamak,Şirintepe Mahallesi
+Boş,Daire,0 (Yeni),10,45,50,Düz Giriş (Zemin),Evet,Yerden Isıtma,1,1+1,Var,275.0,20000.0,Akyurt,Balıkhisar Mahallesi
+Boş,Daire,16-20,10,127,140,6.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,1000.0,35000.0,Etimesgut,Ahi Mesut Mahallesi
+Boş,Daire,1,12,80,90,3.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,2950.0,40000.0,Çankaya,Koru Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,33000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Residence,2,30,160,170,14.Kat,Evet,Merkezi (Pay Ölçer),2,4+1,Var,2950.0,75000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,16-20,10,632,650,7.Kat,Evet,Merkezi Doğalgaz,4,6+1,Var,2950.0,560000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,16-20,4,90,100,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,22000.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,16-20,3,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21500.0,Keçiören,Bademlik Mahallesi
+Boş,Daire,11-15,3,125,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,0 (Yeni),15,45,55,7.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,450.0,23500.0,Keçiören,Hasköy Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,54,60,2.Kat,Evet,Merkezi Doğalgaz,1,1 Oda,Var,1000.0,23500.0,Etimesgut,Şeyh Şamil Mahallesi
+Boş,Daire,11-15,4,95,97,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,22500.0,Etimesgut,Alsancak Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,21500.0,Altındağ,Güneşevler Mahallesi
+Boş,Daire,21 Ve Üzeri,8,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,1000.0,25000.0,Etimesgut,Oğuzlar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,140,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,400.0,24000.0,Sincan,Mustafa Kemal Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,12,115,130,Yüksek Giriş,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,42500.0,Çankaya,Koru Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,27000.0,Çankaya,Doğuş Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,45000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,1,4,125,145,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,400.0,27000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,5-10,5,175,235,1.Kat,Hayır,Kombi Doğalgaz,2,3.5+1,Var,250.0,35000.0,Pursaklar,Saray Fatih Mahallesi
+Boş,Daire,0 (Yeni),3,85,95,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,25000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,2,80,100,Müstakil,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,15000.0,Yenimahalle,Anadolu Mahallesi
+Boş,Daire,11-15,3,108,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,25750.0,Etimesgut,Etiler Mahallesi
+Boş,Daire,0 (Yeni),3,100,113,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,16-20,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,18500.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,0 (Yeni),3,115,130,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,30000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,11-15,3,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,18500.0,Etimesgut,30 Ağustos Mahallesi
+Boş,Daire,11-15,12,140,160,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,38000.0,Yenimahalle,Kardelen Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,35000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,4,12,150,180,4.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,200.0,30000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Sincan,Plevne Mahallesi
+Boş,Daire,5-10,4,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,5-10,3,140,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,11-15,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16500.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,2,3,75,85,3.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,500.0,36500.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,60,70,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,25000.0,Çankaya,100. Yıl Mahallesi
+Boş,Daire,11-15,6,70,97,5.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,2950.0,58000.0,Çankaya,Oran Mahallesi
+Boş,Daire,11-15,14,110,135,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,22000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,120,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,37000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,24000.0,Çankaya,Huzur Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,45000.0,Çankaya,Güvenevler Mahallesi
+Boş,Daire,21 Ve Üzeri,15,100,110,8.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,43000.0,Çankaya,Emek Mahallesi
+Boş,Daire,0 (Yeni),3,80,85,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,45000.0,Çankaya,Emek Mahallesi
+Boş,Daire,0 (Yeni),3,70,75,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,40000.0,Çankaya,Emek Mahallesi
+Boş,Daire,5-10,3,50,60,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,36000.0,Çankaya,Mebusevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,105,4.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,32000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,95,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,115,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,4,100,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,30000.0,Çankaya,Korkutreis Mahallesi
+Boş,Daire,21 Ve Üzeri,4,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,400.0,20000.0,Mamak,Demirlibahçe Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,60,65,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,1+1,Var,150.0,20000.0,Mamak,Demirlibahçe Mahallesi
+Boş,Daire,21 Ve Üzeri,3,140,160,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,150.0,25000.0,Mamak,Demirlibahçe Mahallesi
+Boş,Daire,0 (Yeni),3,40,45,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,39000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Villa,5-10,2,180,220,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,60000.0,Gölbaşı,Hacıhasan Mahallesi
+Boş,Daire,4,30,90,110,2.Kat,Hayır,Merkezi (Pay Ölçer),2,2+1,Var,850.0,55000.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,0 (Yeni),3,70,85,3.Kat,Hayır,Yerden Isıtma,1,3+1,Var,850.0,60000.0,Çankaya,Barbaros Mahallesi
+Boş,Daire,21 Ve Üzeri,10,90,110,4.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,38000.0,Çankaya,Oran Mahallesi
+Boş,Daire,5-10,14,120,130,12.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,725.0,30000.0,Mamak,Akşemsettin Mahallesi
+Boş,Daire,4,16,60,65,14.Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,225.0,15000.0,Çubuk,Yenice Mahallesi
+Boş,Daire,0 (Yeni),4,70,85,Kot 1 (-1).Kat,Hayır,Yerden Isıtma,1,2+1,Var,850.0,46000.0,Çankaya,Güvenevler Mahallesi
+Boş,Villa,21 Ve Üzeri,4,250,280,2.Kat,Evet,Kombi Doğalgaz,2,5+1,Var,275.0,67500.0,Gölbaşı,Karşıyaka Mahallesi
+Boş,Daire,11-15,14,110,135,12.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,900.0,23000.0,Altındağ,Gültepe Mahallesi
+Boş,Daire,0 (Yeni),3,40,50,Düz Giriş (Zemin),Hayır,Yerden Isıtma,1,1+1,Var,850.0,36000.0,Çankaya,Barbaros Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,21000.0,Yenimahalle,Çiğdemtepe Mahallesi
+Boş,Daire,0 (Yeni),2,35,45,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,21000.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,55,65,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,26000.0,Çankaya,Korkutreis Mahallesi
+Boş,Daire,4,23,92,110,8.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,275.0,59000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,90,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,34500.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,4,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,21000.0,Çankaya,Huzur Mahallesi
+Boş,Daire,0 (Yeni),4,75,85,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,47000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,80,95,Bahçe Katı,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,20000.0,Çankaya,Osman Temiz Mahallesi
+Boş,Daire,5-10,3,130,145,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22000.0,Keçiören,Kanuni Mahallesi
+Boş,Daire,11-15,7,125,137,Yüksek Giriş,Evet,Merkezi (Pay Ölçer),1,3+1,Var,1000.0,22000.0,Etimesgut,Yapracık Mahallesi
+Boş,Daire,11-15,4,125,135,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,22500.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,0 (Yeni),4,100,140,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20500.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,0 (Yeni),13,50,65,7.Kat,Evet,Kombi Doğalgaz,1,1+1,Var,1500.0,28000.0,Pursaklar,Saray Osmangazi Mahallesi
+Boş,Daire,16-20,11,120,130,5.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,250.0,30000.0,Mamak,Cengizhan Mahallesi
+Boş,Daire,16-20,6,137,140,6.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,1200.0,36000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,2,28,63,65,3.Kat,Evet,Yerden Isıtma,1,2+1,Var,275.0,30000.0,Gölbaşı,Hacılar Mahallesi
+Boş,Daire,5-10,25,105,124,2.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,850.0,60000.0,Çankaya,Konutkent Mahallesi
+Boş,Villa,11-15,3,250,400,2.Kat,Evet,Kombi Doğalgaz,3,5+1,Var,2950.0,80000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,0 (Yeni),27,124,130,5.Kat,Evet,Yerden Isıtma,2,3+1,Var,275.0,45000.0,Gölbaşı,Hacılar Mahallesi
+Boş,Daire,0 (Yeni),3,46,60,1.Kat,Hayır,Yerden Isıtma,1,1+1,Var,500.0,21000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,115,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23000.0,Keçiören,İncirli Mahallesi
+Boş,Daire,21 Ve Üzeri,6,120,130,6.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,2000.0,28000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,16-20,5,115,125,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,23500.0,Etimesgut,Elvan Mahallesi
+Kiracı Oturuyor,Daire,16-20,3,120,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,32000.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,16-20,3,105,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,23000.0,Mamak,General Zeki Doğan Mahallesi
+Boş,Daire,16-20,4,110,120,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,16500.0,Sincan,Akşemsettin Mahallesi
+Boş,Daire,21 Ve Üzeri,5,75,80,Bahçe Katı,Evet,Kombi Doğalgaz,1,2+1,Var,650.0,27500.0,Yenimahalle,Barış Mahallesi
+Boş,Daire,0 (Yeni),5,40,45,4.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,24000.0,Gölbaşı,Eymir Mahallesi
+Boş,Daire,0 (Yeni),35,205,225,7.Kat,Evet,Yerden Isıtma,3,4.5+1,Var,275.0,65000.0,Gölbaşı,Kızılcaşar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,65,80,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,17000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,2,80,90,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Şefkat Mahallesi
+Boş,Daire,11-15,2,115,125,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,24000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,16-20,5,125,135,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,36000.0,Etimesgut,Yavuz Selim Mahallesi
+Boş,Daire,4,9,100,115,9.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,27500.0,Altındağ,Ulubey Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,3,99,100,Yüksek Giriş,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,850.0,55000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,5-10,23,180,190,2.Kat,Evet,Yerden Isıtma,2,4+1,Var,450.0,49000.0,Keçiören,Ovacık Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,117,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,900.0,29500.0,Etimesgut,Güzelkent Mahallesi
+Boş,Daire,11-15,5,350,500,4.Kat,Hayır,Kombi Doğalgaz,3,7+1,Var,850.0,85000.0,Çankaya,Birlik Mahallesi
+Boş,Daire,5-10,3,115,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,30000.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,5-10,9,55,58,5.Kat,Evet,Merkezi (Pay Ölçer),1,1+1,Var,1000.0,26500.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,16-20,11,120,130,8.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,46000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,1,4,50,55,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,49000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,65,80,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,150.0,19000.0,Çankaya,Ertuğrulgazi Mahallesi
+Boş,Daire,0 (Yeni),14,50,55,Düz Giriş (Zemin),Evet,Yerden Isıtma,1,1+1,Var,725.0,20000.0,Mamak,Ege Mahallesi
+Boş,Daire,11-15,3,100,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Karaağaç Mahallesi
+Boş,Daire,11-15,3,105,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,30000.0,Etimesgut,Şeker Mahallesi
+Boş,Daire,0 (Yeni),3,45,55,3.Kat,Hayır,Yerden Isıtma,1,1+1,Var,850.0,31000.0,Çankaya,Yukarı Dikmen Mahallesi
+Boş,Daire,2,3,90,100,Kot 2 (-2).Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,275.0,17500.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,0 (Yeni),4,40,45,Kot 1 (-1).Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,28500.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,5-10,5,110,120,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,26500.0,Mamak,Gülveren Mahallesi
+Boş,Daire,16-20,5,125,126,5.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,32500.0,Keçiören,Ayvalı Mahallesi
+Boş,Daire,11-15,6,120,125,4.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,450.0,17000.0,Keçiören,Karşıyaka Mahallesi
+Boş,Daire,0 (Yeni),4,110,115,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,25000.0,Çankaya,Ertuğrulgazi Mahallesi
+Boş,Daire,21 Ve Üzeri,8,100,110,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,30000.0,Yenimahalle,Demetevler Mahallesi
+Boş,Daire,16-20,4,115,120,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Sincan,Akşemsettin Mahallesi
+Boş,Daire,0 (Yeni),12,170,190,3.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,500.0,60000.0,Yenimahalle,Cumhuriyet Mahallesi
+Boş,Daire,5-10,2,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,2,15,180,203,4.Kat,Hayır,Yerden Isıtma,3,4+1,Var,2000.0,60000.0,Etimesgut,Erler Mahallesi
+Boş,Daire,5-10,3,100,110,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,5-10,3,45,50,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,Stüdyo,Yok,200.0,19000.0,Mamak,Çağlayan Mahallesi
+Boş,Daire,5-10,15,130,140,11.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,43000.0,Çankaya,Gaziosmanpaşa Mahallesi
+Boş,Daire,11-15,7,190,200,3.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,275.0,25500.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,11-15,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,16000.0,Polatlı,Fatih Mahallesi
+Boş,Daire,21 Ve Üzeri,4,135,140,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,33000.0,Sincan,Mevlana Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,2.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,36000.0,Çankaya,Harbiye Mahallesi
+Mülk Sahibi Oturuyor,Daire,5-10,15,145,165,Düz Giriş (Zemin),Evet,Merkezi (Pay Ölçer),2,3+1,Var,450.0,35000.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,0 (Yeni),4,80,90,2.Kat,Hayır,Yerden Isıtma,1,2+1,Var,850.0,35500.0,Çankaya,Tınaztepe Mahallesi
+Boş,Daire,21 Ve Üzeri,2,120,125,2.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,650.0,26000.0,Yenimahalle,İnönü Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,96,Yüksek Giriş,Evet,Merkezi Doğalgaz,1,2+1,Var,2950.0,33000.0,Çankaya,Yücetepe Mahallesi
+Boş,Daire,11-15,3,125,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,23000.0,Polatlı,Şehitlik Mahallesi
+Boş,Daire,16-20,4,140,150,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,13000.0,Polatlı,Gazi Mahallesi
+Boş,Daire,16-20,3,150,165,3.Kat,Evet,Kombi Doğalgaz,2,4+1,Var,1000.0,26000.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,21 Ve Üzeri,3,50,60,3.Kat,Hayır,Klimalı,1,1+1,Var,100.0,23000.0,Polatlı,Cumhuriyet Mahallesi
+Boş,Daire,21 Ve Üzeri,4,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,14500.0,Polatlı,Cumhuriyet Mahallesi
+Boş,Daire,5-10,4,130,145,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,29000.0,Keçiören,Sancaktepe Mahallesi
+Boş,Daire,16-20,3,280,300,3.Kat,Hayır,Kombi Doğalgaz,3,5+1,Var,1000.0,55000.0,Çankaya,Kırkkonaklar Mahallesi
+Mülk Sahibi Oturuyor,Daire,11-15,4,115,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,35000.0,Sincan,Selçuklu Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,32000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,16-20,4,134,150,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,27000.0,Keçiören,Atapark Mahallesi
+Boş,Daire,5-10,4,110,125,1.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,200.0,38000.0,Keçiören,Kuşcağız Mahallesi
+Boş,Daire,3,5,45,55,3.Kat,Hayır,Merkezi Doğalgaz,1,1+1,Var,850.0,28000.0,Çankaya,Konutkent Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,100,110,4.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,30000.0,Çankaya,Bahçelievler Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,45,55,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,37000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,5-10,4,85,100,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Var,400.0,50000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,70,80,Bahçe Katı,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,25000.0,Çankaya,Emek Mahallesi
+Boş,Daire,3,30,55,60,25.Kat,Evet,Merkezi (Pay Ölçer),1,1.5+1,Var,1000.0,29999.0,Etimesgut,Devlet Mahallesi
+Boş,Daire,0 (Yeni),4,70,90,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,40000.0,Çankaya,Güvenevler Mahallesi
+Boş,Daire,21 Ve Üzeri,12,110,120,9.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,275.0,25000.0,Gölbaşı,Tulumtaş Mahallesi
+Boş,Daire,16-20,10,632,650,4.Kat,Evet,Merkezi Doğalgaz,4,6+1,Var,2950.0,380000.0,Çankaya,Bağcılar Mahallesi
+Boş,Daire,0 (Yeni),2,80,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,19500.0,Sincan,Menderes Mahallesi
+Boş,Daire,1,3,95,105,2.Kat,Hayır,Yerden Isıtma,2,2+1,Var,500.0,35000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,1,3,65,70,2.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,27500.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,0 (Yeni),3,115,130,2.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,500.0,36000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,0 (Yeni),3,40,50,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,500.0,21000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,21 Ve Üzeri,5,110,117,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,33000.0,Çankaya,Ayrancı Mahallesi
+Boş,Daire,5-10,4,20,25,Bahçe Katı,Hayır,Kombi Doğalgaz,2,Stüdyo,Yok,850.0,22000.0,Çankaya,Anıttepe Mahallesi
+Boş,Daire,5-10,28,100,115,21.Kat,Hayır,Merkezi (Pay Ölçer),2,3+1,Var,2700.0,38000.0,Etimesgut,Devlet Mahallesi
+Boş,Daire,16-20,3,100,110,Yüksek Giriş,Evet,Kombi Doğalgaz,1,3+1,Var,725.0,15750.0,Mamak,Kıbrısköy Mahallesi
+Boş,Daire,16-20,4,120,135,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,25000.0,Çankaya,Akpınar Mahallesi
+Boş,Daire,11-15,3,125,135,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,25000.0,Keçiören,Kanuni Mahallesi
+Boş,Daire,5-10,4,65,75,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,4300.0,55000.0,Çankaya,Çankaya Mahallesi
+Boş,Daire,4,7,75,85,7.Kat,Hayır,Merkezi (Pay Ölçer),1,2+1,Var,150.0,20000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,21 Ve Üzeri,4,80,90,3.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,16000.0,Sincan,Tandoğan Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,35000.0,Çankaya,Küçükesat Mahallesi
+Boş,Daire,16-20,8,130,140,5.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,1000.0,40000.0,Etimesgut,Göksu Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,27000.0,Çankaya,Fakülteler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,97,106,Kot 2 (-2).Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,17000.0,Keçiören,Kavacık Subayevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,3,105,115,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Yok,200.0,14250.0,Keçiören,Güçlükaya Mahallesi
+Boş,Daire,11-15,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,250.0,21000.0,Pursaklar,Mimar Sinan Mahallesi
+Boş,Daire,16-20,3,110,120,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18500.0,Keçiören,Şehit Kubilay Mahallesi
+Boş,Daire,0 (Yeni),3,80,90,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,32000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,5-10,3,100,110,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Mamak,Altıağaç Mahallesi
+Boş,Daire,21 Ve Üzeri,3,96,102,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,22500.0,Keçiören,Emrah Mahallesi
+Boş,Daire,11-15,6,125,135,5.Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,275.0,19000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,0 (Yeni),3,90,110,3.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,200.0,23000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,21 Ve Üzeri,3,71,80,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,18000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,16-20,3,132,144,2.Kat,Hayır,Kombi Doğalgaz,1,3.5+1,Var,200.0,37000.0,Keçiören,Hasköy Mahallesi
+Boş,Daire,11-15,4,110,120,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,26000.0,Gölbaşı,Bahçelievler Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,8,125,130,8.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,32000.0,Yenimahalle,Demetgül Mahallesi
+Boş,Daire,4,3,140,150,3.Kat,Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,30000.0,Sincan,Mustafa Kemal Mahallesi
+Boş,Daire,3,11,150,165,8.Kat,Hayır,Merkezi Doğalgaz,2,3+1,Var,500.0,27000.0,Altındağ,Ulubey Mahallesi
+Boş,Daire,1,4,120,130,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,30500.0,Mamak,Türközü Mahallesi
+Boş,Daire,5-10,2,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,11-15,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,5-10,2,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,16-20,3,120,130,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,26500.0,Yenimahalle,Ergenekon Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,128,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,20000.0,Mamak,Çağlayan Mahallesi
+Boş,Daire,11-15,10,100,120,5.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,275.0,20000.0,Gölbaşı,Tulumtaş Mahallesi
+Boş,Daire,11-15,5,125,135,1.Kat,Evet,Kombi Doğalgaz,2,3+1,Var,275.0,25000.0,Kahramankazan,Atatürk Mahallesi
+Boş,Daire,0 (Yeni),17,185,200,13.Kat,Hayır,Merkezi (Pay Ölçer),2,4.5+1,Var,1200.0,48000.0,Keçiören,Ovacık Mahallesi
+Boş,Daire,5-10,12,95,100,Bodrum Kat,Evet,Kombi Doğalgaz,1,3+1,Var,2950.0,26000.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,11-15,3,135,145,3.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,150.0,20500.0,Mamak,Peyami Safa Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,0 (Yeni),30,200,220,21.Kat,Evet,Yerden Isıtma,3,4.5+1,Var,275.0,65000.0,Gölbaşı,Taşpınar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,21000.0,Etimesgut,Kazım Karabekir Mahallesi
+Boş,Daire,5-10,3,140,145,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,2,4+1,Var,200.0,30000.0,Keçiören,Sancaktepe Mahallesi
+Mülk Sahibi Oturuyor,Daire,21 Ve Üzeri,17,140,150,1.Kat,Evet,Merkezi Doğalgaz,2,3+1,Var,2950.0,57000.0,Çankaya,Ümit Mahallesi
+Boş,Daire,0 (Yeni),9,69,73,7.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,1000.0,29900.0,Etimesgut,Yeşilova Mahallesi
+Boş,Daire,11-15,12,185,205,11.Kat,Evet,Merkezi Doğalgaz,2,4+1,Var,450.0,48000.0,Keçiören,Esertepe Mahallesi
+Kiracı Oturuyor,Daire,5-10,5,67,80,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,275.0,20000.0,Etimesgut,İstasyon Mahallesi
+Boş,Daire,21 Ve Üzeri,3,280,300,3.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,850.0,75000.0,Çankaya,İlkbahar Mahallesi
+Boş,Daire,21 Ve Üzeri,3,130,135,Bahçe Katı,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Esertepe Mahallesi
+Boş,Daire,11-15,13,85,90,8.Kat,Evet,Merkezi (Pay Ölçer),2,2+1,Var,1000.0,34000.0,Etimesgut,Şehit Osman Avcı Mahallesi
+Boş,Daire,5-10,14,110,120,3.Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,275.0,22000.0,Etimesgut,Yukarıyurtçu Mahallesi
+Boş,Daire,3,11,160,180,3.Kat,Hayır,Kombi Doğalgaz,3,4+1,Var,500.0,35000.0,Yenimahalle,Avcılar Mahallesi
+Boş,Daire,21 Ve Üzeri,4,105,115,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Sincan,İstasyon Mahallesi
+Boş,Daire,21 Ve Üzeri,8,125,135,8.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,2950.0,38000.0,Çankaya,Oran Mahallesi
+Boş,Daire,21 Ve Üzeri,7,100,125,1.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,2950.0,39000.0,Çankaya,Yıldızevler Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,4,90,105,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,22000.0,Mamak,Saimekadın Mahallesi
+Boş,Daire,21 Ve Üzeri,5,100,110,3.Kat,Hayır,Merkezi (Pay Ölçer),1,3+1,Var,200.0,20000.0,Sincan,Gökçek Mahallesi
+Boş,Daire,21 Ve Üzeri,6,95,100,Kot 2 (-2).Kat,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,25000.0,Çankaya,Aziziye Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,125,145,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,15000.0,Polatlı,Cumhuriyet Mahallesi
+Boş,Daire,0 (Yeni),12,165,175,7.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,200.0,45000.0,Sincan,Törekent Mahallesi
+Boş,Daire,11-15,6,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,12500.0,Sincan,Hürriyet Mahallesi
+Boş,Daire,11-15,12,110,120,9.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,17500.0,Gölbaşı,Tulumtaş Mahallesi
+Kiracı Oturuyor,Daire,16-20,3,110,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,500.0,23000.0,Gölbaşı,Seğmenler Mahallesi
+Boş,Daire,0 (Yeni),5,130,135,4.Kat,Hayır,Kombi Doğalgaz,2,3+1,Var,275.0,28000.0,Altındağ,Feridun Çelik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,0 (Yeni),12,80,91,8.Kat,Hayır,Kombi Doğalgaz,2,2+1,Var,275.0,24000.0,Etimesgut,Atayurt Mahallesi
+Boş,Daire,5-10,7,110,125,1.Kat,Evet,Merkezi (Pay Ölçer),1,3+1,Var,725.0,29000.0,Mamak,Hürel Mahallesi
+Boş,Daire,21 Ve Üzeri,5,65,75,5.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,850.0,22000.0,Çankaya,Korkutreis Mahallesi
+Boş,Daire,21 Ve Üzeri,5,180,215,Bahçe Katı,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,60000.0,Çankaya,Yukarı Dikmen Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,45,55,1.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,850.0,37000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,115,125,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,21000.0,Keçiören,Aşağı Eğlence Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,21000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,160,170,3.Kat,Hayır,Merkezi Doğalgaz,1,4+2,Var,1500.0,34000.0,Çankaya,Emek Mahallesi
+Boş,Daire,21 Ve Üzeri,2,125,135,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,33000.0,Çankaya,Büyükesat Mahallesi
+Boş,Daire,2,4,41,54,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,2+1,Var,250.0,15000.0,Çubuk,Esenboğa Merkez Mahallesi
+Boş,Daire,21 Ve Üzeri,2,95,110,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,32000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,5,85,95,4.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,200.0,32000.0,Çankaya,İşçi Blokları Mahallesi
+Boş,Daire,11-15,6,85,95,5.Kat,Evet,Kombi Doğalgaz,1,2+1,Var,250.0,24000.0,Sincan,Fevzi Çakmak Mahallesi
+Boş,Daire,5-10,16,145,160,Yüksek Giriş,Evet,Merkezi (Pay Ölçer),2,4+1,Var,725.0,30000.0,Mamak,Durali Alıç Mahallesi
+Boş,Daire,21 Ve Üzeri,3,90,100,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,300.0,35000.0,Çankaya,Büyükesat Mahallesi
+Kiracı Oturuyor,Daire,5-10,4,55,65,2.Kat,Hayır,Kombi Doğalgaz,1,1+1,Var,900.0,37000.0,Çankaya,Mebusevleri Mahallesi
+Boş,Daire,21 Ve Üzeri,6,110,120,6.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,350.0,26000.0,Altındağ,Hacettepe Mahallesi
+Boş,Villa,16-20,5,200,250,2.Kat,Hayır,Kombi Doğalgaz,2,5+1,Var,200.0,30000.0,Keçiören,Basınevleri Mahallesi
+Boş,Daire,5-10,4,90,95,Yüksek Giriş,Hayır,Merkezi Doğalgaz,1,2+1,Var,850.0,31999.0,Çankaya,Yaşamkent Mahallesi
+Boş,Daire,1,15,190,205,10.Kat,Hayır,Merkezi (Pay Ölçer),2,4+1,Var,200.0,43000.0,Keçiören,Yükseltepe Mahallesi
+Boş,Daire,2,22,233,253,10.Kat,Evet,Merkezi (Pay Ölçer),3,4.5+1,Var,3900.0,67500.0,Çankaya,Alacaatlı Mahallesi
+Boş,Daire,0 (Yeni),4,42,50,2.Kat,Hayır,Yerden Isıtma,1,1+1,Var,150.0,25500.0,Mamak,Altıağaç Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,3,50,55,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,1+1,Var,150.0,16000.0,Mamak,Saimekadın Mahallesi
+Boş,Daire,21 Ve Üzeri,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Şenlik Mahallesi
+Boş,Daire,16-20,3,110,120,3.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,21000.0,Mamak,Tuzluçayır Mahallesi
+Boş,Daire,5-10,4,110,140,2.Kat,Hayır,Kombi Doğalgaz,1,4+1,Var,150.0,25000.0,Mamak,Bahçelerüstü Mahallesi
+Boş,Daire,16-20,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,24000.0,Mamak,Gülveren Mahallesi
+Kiracı Oturuyor,Daire,16-20,14,108,123,4.Kat,Evet,Merkezi Doğalgaz,1,3+1,Var,450.0,30000.0,Keçiören,Yakacık Mahallesi
+Boş,Daire,5-10,3,110,120,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,275.0,35000.0,Altındağ,Aydınlıkevler Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,130,Düz Giriş (Zemin),Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,19000.0,Keçiören,Etlik Mahallesi
+Boş,Daire,21 Ve Üzeri,3,120,135,2.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,30000.0,Çankaya,Huzur Mahallesi
+Boş,Daire,21 Ve Üzeri,2,115,120,1.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,200.0,20750.0,Keçiören,19 Mayıs Mahallesi
+Boş,Daire,5-10,14,105,110,Düz Giriş (Zemin),Hayır,Merkezi (Pay Ölçer),1,3+1,Var,150.0,22500.0,Mamak,Diriliş Mahallesi
+Boş,Daire,21 Ve Üzeri,2,80,85,1.Kat,Hayır,Kombi Doğalgaz,1,2+1,Var,500.0,16000.0,Yenimahalle,Anadolu Mahallesi
+Boş,Daire,0 (Yeni),2,70,78,Yüksek Giriş,Hayır,Yerden Isıtma,1,2+1,Var,500.0,35000.0,Gölbaşı,İncek Mahallesi
+Boş,Daire,16-20,3,100,110,Kot 1 (-1).Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,150.0,23000.0,Mamak,Şahintepe Mahallesi
+Mülk Sahibi Oturuyor,Daire,2,3,95,105,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,300.0,21000.0,Sincan,29 Ekim Mahallesi
+Boş,Daire,21 Ve Üzeri,4,120,125,4.Kat,Hayır,Kombi Doğalgaz,1,3+1,Var,100.0,18000.0,Yenimahalle,Demetgül Mahallesi
+Boş,Daire,21 Ve Üzeri,3,100,110,Yüksek Giriş,Hayır,Kombi Doğalgaz,1,3+1,Var,850.0,38000.0,Çankaya,Yukarı Bahçelievler Mahallesi
+Kiracı Oturuyor,Daire,21 Ve Üzeri,5,120,130,3.Kat,Hayır,Merkezi Doğalgaz,1,3+1,Var,850.0,45000.0,Çankaya,Bahçelievler Mahallesi
+Boş,Daire,21 Ve Üzeri,9,120,130,2.Kat,Evet,Kombi Doğalgaz,1,3+1,Var,650.0,43250.0,Yenimahalle,Kentkoop Mahallesi
+Boş,Daire,11-15,8,167,188,3.Kat,Evet,Merkezi (Pay Ölçer),2,3+1,Var,2950.0,90000.0,Çankaya,Yıldızevler Mahallesi
+Kiracı Oturuyor,Daire,3,3,45,50,1.Kat,Hayır,Merkezi (Pay Ölçer),1,1+1,Var,850.0,31000.0,Çankaya,Konutkent Mahallesi
